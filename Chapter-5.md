@@ -29,13 +29,13 @@ Se ha creado una organización en Github con los miembros del grupo y un reposit
 |Frontend | https://github.com/SpeedyRent/SpeedyRent-Frontend |
 
 **GitFlow Implementation**<br>GitFlow es un modelo estructurado para gestionar el desarrollo y las ramas en Git. Las ramas principales en este flujo son develop y main. La rama develop actúa como la principal rama de trabajo donde se integran nuevas características, mientras que la rama main contiene la versión estable y lista para producción, que se despliega en GitHub Pages. Además, se crean ramas adicionales para cada tarea o funcionalidad específica que se esté desarrollando, garantizando un flujo organizado y controlado.
-<br>![Gitflow](Assets/Chapter-5/5.1.2/gitFlow.png)
+<br><p align="center"><img src="Assets/Chapter-5/5.1.2/gitFlow.png" alt="GitFlow" /></p>
 <br><br>**Feature Branches**<br>Cada nueva funcionalidad se desarrolla en su propia rama individual, creada a partir de develop. Estas ramas permiten aislar el trabajo en progreso y facilitan la integración de nuevas características sin interrumpir el desarrollo principal.
-<br>![Feature Branches](Assets/Chapter-5/5.1.2/Feature%20branches.png)
+<br><p align="center"><img src="Assets/Chapter-5/5.1.2/Feature branches.png" alt="Feature Branches" /></p>
 <br><br>**Release Branches**<br>Las ramas de lanzamiento se crean desde develop cuando se prepara una nueva versión para ser enviada a producción. Estas ramas permiten pulir detalles finales antes de fusionar la versión en main y lanzar el producto.
-<br>![Release Branches](Assets/Chapter-5/5.1.2/release%20branches.png)
+<br><p align="center"><img src="Assets/Chapter-5/5.1.2/release branches.png" alt="Release Branches" /></p>
 <br><br>**Hotfix Branches**<br>Las ramas de hotfix se utilizan para solucionar errores críticos que aparecen en producción. Se crean desde main y, una vez resuelto el problema, se fusionan tanto en main como en develop, garantizando que el arreglo esté presente en las futuras versiones de desarrollo.
-<br>![Hotfix Branches](Assets/Chapter-5/5.1.2/hotfix%20branches.png)
+<br><p align="center"><img src="Assets/Chapter-5/5.1.2/hotfix branches.png" alt="Hotfix Branches" /></p>
 <br><br>**Semantic versioning**<br>Los releases se realizan según los estándares de Semantinc Versioning 2.0 (https://semver.org/), según el formato MAJOR.MINOR.PATCH.
 <br><br>**• MAJOR:** versión mayor cuando se implementa cambios de APIs incompatibles.
 <br>**• MINOR:** versión menor cuando se añaden features y funcionalidades nuevas.
