@@ -16,12 +16,36 @@ En esta sección, detallaremos las plataformas y el software que utilizamos como
 **Software Deployment**<br><br>[Github Pages](https://github.com/) Se utilizó Github Pages para el deploy del landing page.<br>Se ha utilizado [Firebase](https://firebase.google.com/?hl=es) para desplegar el Frontend a través de su funcionalidad de hosting.<br><br>
 **Software Documentation**<br><ul>
 <li><strong>Google Drive:</strong><br>Se ha utilizado <a href="https://www.google.com/intl/es-419_pe/drive/">Google Drive</a> para subir archivos de documentos y presentación. Además, se han utilizado herramientas como Google Docs y Google Slides que permiten el desarrollo colaborativo de los informes a entregar.</li><li><strong>Google Meets y Zoom:</strong><br>Se ha utilizado <a href="https://meet.google.com/">Google Meets</a> y <a href="https://zoom.us/">Zoom</a> para videoconferencias y realizar las entrevistas de segmentos objetivos. Las plataformas tienen herramientas de grabación, lo que simplifica el procesamiento de los videos.</li><li><strong>Microsoft Stream:</strong><br>Se ha utilizado el servicio de <a href="https://www.microsoft.com/es-ww/microsoft-365/microsoft-stream">Microsoft Stream</a> para subir el video completo de las entrevistas. La cuenta que ha subido el video está vinculada a la organización de la universidad, lo que permitió tener suficiente espacio de memoria en la nube.</li><li><strong>LucidChart:</strong><br><a href="https://www.lucidchart.com/pages/es">LucidChart</a> ha sido empleado en el desarrollo de diagramas de flujo para asegurar los user goals y guiar en el diseño de los prototipos de la aplicación web. Además, se ha utilizado para el diagrama de clases.</li><li><strong>Structurizr:</strong><br>Para el desarrollo del diagrama C4 en los tres niveles (diagrama de contexto, contenedores y componentes), se empleó <a href="https://structurizr.com/">Structurizr</a> junto a Visual Studio Code Community.</li><li><strong>Vertabelo:</strong><br>Para el desarrollo del diagrama del diseño de base de datos, se ha empleado <a href="https://vertabelo.com/">Vertabelo</a>, software especializado en diagramas de base de datos.</li></ul>
+
 #### 5.1.2. Source Code Management
-Se ha creado una organización en Github con los miembros del grupo y un repositorio para el landing page. ● Organización: https://github.com/SpeedyRent ● Repositorio landing page: https://github.com/SpeedyRent/Landing-Page ● Despliegue de landing page en Netlify: https://SpeedyRent.netlify.app/ Las ramas principales en el Gitflow serán las ramas developer y master, donde developer será la principal rama de trabajo, mientras que la rama master tendrá la versión final de la web desplegada en Github pages. Por otro lado, se utilizarán ramas secundarias con el nombre de los features que se estén trabajando (hero, navbar branches por ejemplo). Asimismo, se incluyen el branches para release (branch release) y hotfix (branch hotfix).
+Se ha creado una organización en Github con los miembros del grupo y un repositorio para el landing page.
 
-Commit Conventions Para los commits en Github se han utilizado los estándares convencionales versión 1.1.0 (https://www.conventionalcommits.org/en/v1.0.0/) según la estructura: [optional scope]: ● Type: representa el tipo de commit, sea tipo feature (feat), fix (fix) o docs (docs). ● Optional scope: es opcional y representa el alcance del commit. ● Description: descripción detallada del commit y acciones realizadas.
+|Segmento                          |        URL                        |
+|--------------------------------- | --------------------------------- |
+|Organización|https://github.com/SpeedyRent|
+|Repositorio Landing Page|https://github.com/SpeedyRent/Landing-Page |
+|Despliegue del Landing Page en Netlify|https://SpeedyRent.netlify.app/|
+|Backend| https://github.com/SpeedyRent/SpeedyRent-Backend |
+|Frontend | https://github.com/SpeedyRent/SpeedyRent-Frontend |
 
-Semantic Versioning Los releases se realizan según los estándares de Semantinc Versioning 2.0 (https://semver.org/), según el formato MAJOR.MINOR.PATCH. ● MAJOR: versión mayor cuando se implementa cambios de APIs incompatibles. ● MINOR: versión menor cuando se añaden features y funcionalidades nuevas. ● PATCH versión de parche de bug fixes y hotfixes.
+**GitFlow Implementation**<br>GitFlow es un modelo estructurado para gestionar el desarrollo y las ramas en Git. Las ramas principales en este flujo son develop y main. La rama develop actúa como la principal rama de trabajo donde se integran nuevas características, mientras que la rama main contiene la versión estable y lista para producción, que se despliega en GitHub Pages. Además, se crean ramas adicionales para cada tarea o funcionalidad específica que se esté desarrollando, garantizando un flujo organizado y controlado.
+<br>![Gitflow](Assets/Chapter-5/5.1.2/gitFlow.png)
+<br><br>**Feature Branches**<br>Cada nueva funcionalidad se desarrolla en su propia rama individual, creada a partir de develop. Estas ramas permiten aislar el trabajo en progreso y facilitan la integración de nuevas características sin interrumpir el desarrollo principal.
+<br>![Feature Branches](Assets/Chapter-5/5.1.2/Feature%20branches.png)
+<br><br>**Release Branches**<br>Las ramas de lanzamiento se crean desde develop cuando se prepara una nueva versión para ser enviada a producción. Estas ramas permiten pulir detalles finales antes de fusionar la versión en main y lanzar el producto.
+<br>![Release Branches](Assets/Chapter-5/5.1.2/release%20branches.png)
+<br><br>**Hotfix Branches**<br>Las ramas de hotfix se utilizan para solucionar errores críticos que aparecen en producción. Se crean desde main y, una vez resuelto el problema, se fusionan tanto en main como en develop, garantizando que el arreglo esté presente en las futuras versiones de desarrollo.
+<br>![Hotfix Branches](Assets/Chapter-5/5.1.2/hotfix%20branches.png)
+<br><br>**Semantic versioning**<br>Los releases se realizan según los estándares de Semantinc Versioning 2.0 (https://semver.org/), según el formato MAJOR.MINOR.PATCH.
+<br><br>**• MAJOR:** versión mayor cuando se implementa cambios de APIs incompatibles.
+<br>**• MINOR:** versión menor cuando se añaden features y funcionalidades nuevas.
+<br>**• PATCH:** versión de parche de bug fixes y hotfixes.
+<br><br>**Conventional Commits**<br>En GitHub, se sigue el estándar de commits convencionales versión 1.1.0 (Conventional Commits 1.1.0).<br>Este sistema organiza los mensajes de commit de forma clara y estructurada, facilitando la comprensión y el seguimiento de cambios. La convención se basa en la siguiente estructura:
+<br>![Commit](Assets/Chapter-5/5.1.2/Commit.png)
+<br><br>**• Type:** Representa el tipo de commit, sea tipo feature (feat), fix (fix) o docs (docs).
+<br>**• Optional scope:** Es opcional y representa el alcance del commit.
+<br>**• Description:** Descripción detallada del commit y acciones realizadas.
+
 #### 5.1.3. Source Code Style Guide & Conventions
 HTML Style Guide and Coding Conventions Es necesario seguir convenciones estandarizadas de HTML como estructura de la web. Entre las principales de W3 Schools (https://www.w3schools.com/html/html5_syntax.asp) podemos mencionar:
 
