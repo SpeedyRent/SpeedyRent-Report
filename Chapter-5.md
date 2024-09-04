@@ -41,7 +41,7 @@ Se ha creado una organización en Github con los miembros del grupo y un reposit
 <br>**• MINOR:** versión menor cuando se añaden features y funcionalidades nuevas.
 <br>**• PATCH:** versión de parche de bug fixes y hotfixes.
 <br><br>**Conventional Commits**<br>En GitHub, se sigue el estándar de commits convencionales versión 1.1.0 (Conventional Commits 1.1.0).<br>Este sistema organiza los mensajes de commit de forma clara y estructurada, facilitando la comprensión y el seguimiento de cambios. La convención se basa en la siguiente estructura:
-<br>![Commit](Assets/Chapter-5/5.1.2/Commit.png)
+<br><p align="center"><img src="Assets/Chapter-5/5.1.2/Commit.png" alt="Commit" /></p>
 <br><br>**• Type:** Representa el tipo de commit, sea tipo feature (feat), fix (fix) o docs (docs).
 <br>**• Optional scope:** Es opcional y representa el alcance del commit.
 <br>**• Description:** Descripción detallada del commit y acciones realizadas.
