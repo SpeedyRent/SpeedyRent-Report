@@ -3,55 +3,38 @@
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <strong>Ingeniería de Software </strong><br>
-    <strong>Aplicaciones Web</strong><br>
-    <strong>Profesor: Naldo Reupo Musayon Gastulo</strong><br>
-    <br>INFORME DE TRABAJO FINAL - HITO 1
-</p>
+   ## Carrera de Ingeniería de Software
+   
+   Ciclo: 2024 - 2
 
-<p align="center">
-    <strong>Grupo 05</strong><br>
-</p>
+   Curso: Aplicaciones Web
+   
+   Sección: SI92
+   
+   Profesor: Naldo Reupo Musayon Gastulo
+   
+   “Informe TB1"
+   
+   Startup: SpeedyRent
+   
+   Producto: Alquiler de autos
+   
+   Grupo: 5
 
-<div style="text-align:center;">
-    <h3>Team Members:</h3>
-    <table align="center">
-        <tr>
-            <th style="text-align:center;">Member</th>
-            <th style="text-align:center;">Code</th>
-        </tr>
-        <tr>
-            <td>Galvan Cerron, George Aldo</td>
-            <td>U202116055</td>
-        </tr>
-        <tr>
-             <td>Becerra Llempen, Fabiola Dayane</td>
-            <td>U20171A518</td>
-        </tr>
-        <tr>
-            <td>----------</td>
-            <td>----</td>
-        </tr>
-        <tr>
-            <td>----------</td>
-            <td>----</td>
-        </tr>
-        <tr>
-            <td>----------</td>
-            <td>----</td>
-        </tr>
-        <tr>
-            <td>----------</td>
-            <td>----</td>
-        </tr>      
-    </table>
+   
+|          Integrantes          |      Código      |
+|:-----------------------------:|:-------------------:|
+|Galvan Cerron, George Aldo|U202116055 |
+|Becerra llempen, Fabiola Becerra|u20171a518       |
+
+
 </div>
-<br>
+
 
 <p align="center">
-  <b>Fecha: Agosto del 2024</b>
+    <strong>Agosto, 2024</strong>
 
----
+</p>
 
 ## Registro de Versiones del Informe
 
@@ -68,8 +51,46 @@
 
 ## Project Report Collaboration Insights
 
----
+A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
 
+**URL del Repositorio del Informe:** https://github.com/SpeedyRent/Report
+
+**Entrega N°1: TB1**
+<br>
+- Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas para cada capítulo, lo que permitió un mayor avance y equidad en el desarrollo del informe.
+
+- Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
+
+![alt text](/assets/imgs/TB1OS.png)
+<br>
+
+**Entrega N°2: TP1**
+<br>
+- Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas a corregir para cada capitulo permitiendo asi mejorar el informe y a la vez anvazar con el forntend application
+
+- Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
+![alt text](/assets/imgs/TPOS.png)
+<br>
+
+**Entrega N°3: TB2**
+<br>
+- Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas a corregir para cada capitulo permitiendo asi mejorar el informe y a la vez anvazar con el frontend application
+
+- Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
+![alt text](/assets/imgs/TB2OS.png)
+
+**Entrega N°4: TF**
+<br>
+- Todos los miembros del equipo contribuyeron en esta ultima entrega, tanto en corregir los errores del informe, y la implementacion requerida del front y back end.
+A continuacion, se presentará la evidencia que muestra los análisis de colaboración y commits en el repositorio del informe realizados por los miembros del equipo durante las entregas realizadas:
+
+Analisis de Colaboración:
+
+![alt text](assets/imgs/analisis_colaborativo.png)
+
+Commits:
+
+![alt text](/assets/imgs/commits.png)
 ## Contenido
 
 ### Tabla de contenidos
