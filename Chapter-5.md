@@ -36,15 +36,16 @@ Se ha creado una organización en Github con los miembros del grupo y un reposit
 <br><p align="center"><img src="Assets/Chapter-5/5.1.2/release branches.png" alt="Release Branches" /></p>
 <br><br>**Hotfix Branches**<br>Las ramas de hotfix se utilizan para solucionar errores críticos que aparecen en producción. Se crean desde main y, una vez resuelto el problema, se fusionan tanto en main como en develop, garantizando que el arreglo esté presente en las futuras versiones de desarrollo.
 <br><p align="center"><img src="Assets/Chapter-5/5.1.2/hotfix branches.png" alt="Hotfix Branches" /></p>
-<br><br>**Semantic versioning**<br>Los releases se realizan según los estándares de Semantinc Versioning 2.0 (https://semver.org/), según el formato MAJOR.MINOR.PATCH.
-<br><br>**• MAJOR:** versión mayor cuando se implementa cambios de APIs incompatibles.
-<br>**• MINOR:** versión menor cuando se añaden features y funcionalidades nuevas.
-<br>**• PATCH:** versión de parche de bug fixes y hotfixes.
-<br><br>**Conventional Commits**<br>En GitHub, se sigue el estándar de commits convencionales versión 1.1.0 (Conventional Commits 1.1.0).<br>Este sistema organiza los mensajes de commit de forma clara y estructurada, facilitando la comprensión y el seguimiento de cambios. La convención se basa en la siguiente estructura:
+<br><br>**Semantic versioning**<br>Los releases se realizan según los estándares de Semantinc Versioning 2.0 (https://semver.org/), según el formato MAJOR.MINOR.PATCH.<br>
+- **MAJOR:** Versión mayor cuando se implementa cambios de APIs incompatibles.
+- **MINOR:** versión menor cuando se añaden features y funcionalidades nuevas.
+- **PATCH:** versión de parche de bug fixes y hotfixes.<br>
+
+**Conventional Commits**<br>En GitHub, se sigue el estándar de commits convencionales versión 1.1.0 (Conventional Commits 1.1.0).<br>Este sistema organiza los mensajes de commit de forma clara y estructurada, facilitando la comprensión y el seguimiento de cambios. La convención se basa en la siguiente estructura:
 <br><p align="center"><img src="Assets/Chapter-5/5.1.2/Commit.png" alt="Commit" /></p>
-<br><br>**• Type:** Representa el tipo de commit, sea tipo feature (feat), fix (fix) o docs (docs).
-<br>**• Optional scope:** Es opcional y representa el alcance del commit.
-<br>**• Description:** Descripción detallada del commit y acciones realizadas.
+- **Type:** Representa el tipo de commit, sea tipo feature (feat), fix (fix) o docs (docs).
+- **Optional scope:** Es opcional y representa el alcance del commit.
+- **Description:** Descripción detallada del commit y acciones realizadas.
 
 #### 5.1.3. Source Code Style Guide & Conventions
 Como convención general , todo el codigo realizado por los miembros del equipo debe redactarse en completo inglés.
