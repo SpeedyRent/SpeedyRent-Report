@@ -109,13 +109,14 @@ Para reducir el ruido, se recomienda utilizar valores predeterminados para los c
 Para mas informacion sobre las convenciones de Gherkin: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
 
 #### 5.1.4. Software Deployment Configuration
-Se utilizará el servicio de Netlify (https://www.netlify.com/) para realizar el proceso de deployment del landing page de SpeedyRent. A continuación se presentará el proceso para realizarlo:
+Se utilizará el servicio de [Netlify](https://www.netlify.com/) para realizar el proceso de deployment del landing page de SpeedyRent.<br>A continuación se presentará el proceso para realizarlo:
 
-Crear o tener una cuenta de Netlify ingresando a su página web oficial (https://www.netlify.com/). Esta cuenta se puede crear con Github, Gitlab o Bitbucket o con un correo convencional.
-Una vez con la sesión iniciado, dirigirse a la sección de sitios y seleccionar “Import from Git”
-Seleccionamos la opción de GitHub
-Seleccionamos la organización con el repositorio a deployar.
-Seleccionamos el repositorio y luego nos aparecerá el botón “Deploy Site” al final del formulario. De esta manera, la página ya estaría deployada en unos instantes. Link de deployment: https://SpeedyRent.netlify.app/
+1. Crear o tener una cuenta de Netlify ingresando a su página web oficial.<br>Esta cuenta se puede crear con Github, Gitlab o Bitbucket o con un correo convencional.<br><br>
+2. Una vez con la sesión iniciado, dirigirse a la sección de sitios y seleccionar “Import from Git”<br><br>
+3. Seleccionamos la opción de GitHub<br><br>
+4. Seleccionamos la organización con el repositorio a deployar.<br><br>
+5. Seleccionamos el repositorio y luego nos aparecerá el botón “Deploy Site” al final del formulario.<br>De esta manera, la página ya estaría deployada en unos instantes.<br>Link de deployment: https://SpeedyRent.netlify.app/ 
+
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1 Sprint Planning 
