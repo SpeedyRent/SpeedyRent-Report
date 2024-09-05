@@ -50,64 +50,68 @@ Se ha creado una organización en Github con los miembros del grupo y un reposit
 
 #### 5.1.3. Source Code Style Guide & Conventions
 Como convención general , todo el codigo realizado por los miembros del equipo debe redactarse en completo inglés.
-<br><br>**HTML**<br><br>
-**• Use Lowercase Element Name**<br>
-Se recomienda usar lowercase para los nombres de los elementos HTML:
-<br><p align="center"><img src="Assets/Chapter-5/5.1.3/Lowercase.png" alt="Lowercase Element Name" /></p>
-**• Close All HTML Elements**<br>
-Se recomienda cerrar todos los elementos HTML:
-<br><p align="center"><img src="Assets/Chapter-5/5.1.3/close all html.png" alt="Close all html" /></p>
-**• Use Lowercase Attribute Names**<br>
-Se recomienda usar lowercase para los nombres de los atributos HTML:
-<br><p align="center"><img src="Assets/Chapter-5/5.1.3/attribute names.png" alt="attribute Names" /></p>
-**• Always Specify alt, width, and height for Images**<br>
-Se recomienda seguir estas convenciones en caso de que la imagen no se puede mostrar y ayudar con la accesibilidad del contenido:
+<br><br>**HTML**<br>
+- **Use Lowercase Element Name**<br>
+Se recomienda usar lowercase para los nombres de los elementos HTML:<br>
+<br><p align="center"><img src="Assets/Chapter-5/5.1.3/Lowercase.png" alt="Lowercase Element Name" /></p><br>
+- **Close All HTML Elements**<br>
+Se recomienda cerrar todos los elementos HTML:<br>
+<br><p align="center"><img src="Assets/Chapter-5/5.1.3/close all html.png" alt="Close all html" /></p><br>
+- **Use Lowercase Attribute Names**<br>
+Se recomienda usar lowercase para los nombres de los atributos HTML:<br>
+<br><p align="center"><img src="Assets/Chapter-5/5.1.3/attribute names.png" alt="attribute Names" /></p><br>
+- **Always Specify alt, width, and height for Images**<br>
+Se recomienda seguir estas convenciones en caso de que la imagen no se puede mostrar y ayudar con la accesibilidad del contenido:<br>
 <br><p align="center"><img src="Assets/Chapter-5/5.1.3/always images.png" alt="always images" /></p>
-Para mas información sobre las convenciones de HTML: https://www.w3schools.com/html/html5_syntax.asp
-<br><br>**CSS**<br><br>
-**• ID and Class Naming**<br>
-Usar nombres de clases y ID significativos que expresen el propósito del elemento:
-<br><p align="center"><img src="Assets/Chapter-5/5.1.3/Id and class naming.png" alt="class naming" /></p>
-**• Block Content Identation**<br>
-Sangrar todo el contenido del bloque, es decir, reglas dentro de reglas, así como declaraciones, para reflejar la jerarquía y Mejorar la comprensión
-<br><p align="center"><img src="Assets/Chapter-5/5.1.3/Block Content Identation.png" alt="content identation" /></p>
-**• Section Comments**<br>
-Agrupe las secciones de la hoja de estilo mediante comentarios. Separar secciones con nuevas líneas.
+<br>Para mas información sobre las convenciones de HTML: https://www.w3schools.com/html/html5_syntax.asp
+
+<br>**CSS**<br><br>
+- **ID and Class Naming**<br>
+Usar nombres de clases y ID significativos que expresen el propósito del elemento:<br>
+<br><p align="center"><img src="Assets/Chapter-5/5.1.3/Id and class naming.png" alt="class naming" /></p><br>
+- **Block Content Identation**<br>
+Sangrar todo el contenido del bloque, es decir, reglas dentro de reglas, así como declaraciones, para reflejar la jerarquía y Mejorar la comprensión<br>
+<br><p align="center"><img src="Assets/Chapter-5/5.1.3/Block Content Identation.png" alt="content identation" /></p><br>
+- **Section Comments**<br>
+Agrupe las secciones de la hoja de estilo mediante comentarios. Separar secciones con nuevas líneas.<br>
 <br><p align="center"><img src="Assets/Chapter-5/5.1.3/Section Comments.png" alt="Comments" /></p>
-Para mas informacion sobre las convenciones de CSS: https://google.github.io/styleguide/htmlcssguide.html
-<br><br>**JavaScript**<br><br>
-**• Array initializers: can be "block-like"**<br>
-Cualquier inicializador de matriz puede ser formateado opcionalmente como si fuera un "tipo bloque" construir". Por ejemplo, los siguientes son todos válidos (no es un análisis exhaustivo lista):
-<br><p align="center"><img src="Assets/Chapter-5/5.1.3/block-like.png" alt="block like" /></p>
-**• Type-use annotations**<br>
-Las anotaciones de uso de tipo aparecen inmediatamente antes del tipo anotado. Una anotación es un uso de tipo anotación si está meta-anotado con . Ejemplo:@Target(ElementType.TYPE_USE)
-<br><p align="center"><img src="Assets/Chapter-5/5.1.3/Type-use annotations.png" alt="type-use annotations" /></p>
-**• Method and constructor annotations**<br>
-Las reglas para las anotaciones en las declaraciones de método y constructor son las mismas que en la sección anterior. Ejemplo:
+<br>Para mas informacion sobre las convenciones de CSS: https://google.github.io/styleguide/htmlcssguide.html
+
+<br>**JavaScript**<br><br>
+- **Array initializers: can be "block-like"**<br>
+Cualquier inicializador de matriz puede ser formateado opcionalmente como si fuera un "tipo bloque" construir". Por ejemplo, los siguientes son todos válidos (no es un análisis exhaustivo lista):<br>
+<br><p align="center"><img src="Assets/Chapter-5/5.1.3/block-like.png" alt="block like" /></p><br>
+- **Type-use annotations**<br>
+Las anotaciones de uso de tipo aparecen inmediatamente antes del tipo anotado. Una anotación es un uso de tipo anotación si está meta-anotado con . Ejemplo:@Target(ElementType.TYPE_USE)<br>
+<br><p align="center"><img src="Assets/Chapter-5/5.1.3/Type-use annotations.png" alt="type-use annotations" /></p><br>
+- **Method and constructor annotations**<br>
+Las reglas para las anotaciones en las declaraciones de método y constructor son las mismas que en la sección anterior. Ejemplo:<br>
 <br><p align="center"><img src="Assets/Chapter-5/5.1.3/Method and constructor annotations.png" alt="method" /></p>
-Para mas informacion sobre las convenciones de JavaScript: https://google.github.io/styleguide/javaguide.html
-<br><br>**TypeScript**<br><br>
-**• Imports**<br>
-Hay cuatro variantes de instrucciones de importación en ES6 y TypeScript:
-<br><p align="center"><img src="Assets/Chapter-5/5.1.3/imports.png" alt="imports" /></p>
-**• Class declarations**<br>
-Las declaraciones de clase no deben terminar con punto y coma:
-<br><p align="center"><img src="Assets/Chapter-5/5.1.3/Class declarations.png" alt="Class declarations" /></p>
-**• Constructors**<br>
-Las llamadas al constructor deben usar paréntesis, incluso cuando no se pasa ningún argumento:
+<br>Para mas informacion sobre las convenciones de JavaScript: https://google.github.io/styleguide/javaguide.html
+
+<br>**TypeScript**<br><br>
+- **Imports**<br>
+Hay cuatro variantes de instrucciones de importación en ES6 y TypeScript:<br>
+<br><p align="center"><img src="Assets/Chapter-5/5.1.3/imports.png" alt="imports" /></p><br>
+- **Class declarations**<br>
+Las declaraciones de clase no deben terminar con punto y coma:<br>
+<br><p align="center"><img src="Assets/Chapter-5/5.1.3/Class declarations.png" alt="Class declarations" /></p><br>
+- **Constructors**<br>
+Las llamadas al constructor deben usar paréntesis, incluso cuando no se pasa ningún argumento:<br>
 <br><p align="center"><img src="Assets/Chapter-5/5.1.3/Constructores.png" alt="constructor" /></p>
-Para mas informacion sobre las convenciones de TypeScript: https://google.github.io/styleguide/tsguide.html
-<br><br>**Gherkin**<br><br>
-**• Discernible Given-When-Then Blocks**<br>
-En teoría, sus escenarios pueden ser tan simples como un solo paso Given, When Then, cada uno. Sin embargo, en la vida real, tienden a crecer y tienen múltiples pasos para cada una de estas palabras clave. Para detectar rápidamente dónde termina un bloque y comienza otro, puede sangrar los pasos que comienzan con "Y". Entonces, el escenario sería algo así:
-<br><p align="center"><img src="Assets/Chapter-5/5.1.3/Discernible given when.png" alt="Discernible" /></p>
-Una alternativa es hacer que cada paso comience con la misma sangría y agregar una nueva línea adicional antes del siguiente bloque de palabras clave.
-<br><br>**• Steps with Tables**<br>
-A menudo usamos tablas en nuestros pasos. Para que sea inmediatamente reconocible que un paso necesita más información de una tabla, usamos dos puntos al final del paso. Esto ayuda cuando se usa IntelliSense, que no incluye vistas previas de tablas, pero mostrará los dos puntos:
-<br><p align="center"><img src="Assets/Chapter-5/5.1.3/Steps with Tables.png" alt="tables" /></p>
-**• Reducing Noise**<br>
-Para reducir el ruido, se recomienda utilizar valores predeterminados para los campos que el sistema requiere, pero que no son relevantes para su escenario.
-<br><p align="center"><img src="Assets/Chapter-5/5.1.3/Reducing Noise.png" alt="noise" /></p>
+<br>Para mas informacion sobre las convenciones de TypeScript: https://google.github.io/styleguide/tsguide.html
+
+<br>**Gherkin**<br><br>
+- **Discernible Given-When-Then Blocks**<br>
+En teoría, sus escenarios pueden ser tan simples como un solo paso Given, When Then, cada uno. Sin embargo, en la vida real, tienden a crecer y tienen múltiples pasos para cada una de estas palabras clave. Para detectar rápidamente dónde termina un bloque y comienza otro, puede sangrar los pasos que comienzan con "Y". Entonces, el escenario sería algo así:<br>
+<br><p align="center"><img src="Assets/Chapter-5/5.1.3/Discernible given when.png" alt="Discernible" /></p><br>
+Una alternativa es hacer que cada paso comience con la misma sangría y agregar una nueva línea adicional antes del siguiente bloque de palabras clave.<br><br>
+- **Steps with Tables**<br>
+A menudo usamos tablas en nuestros pasos. Para que sea inmediatamente reconocible que un paso necesita más información de una tabla, usamos dos puntos al final del paso. Esto ayuda cuando se usa IntelliSense, que no incluye vistas previas de tablas, pero mostrará los dos puntos:<br>
+<br><p align="center"><img src="Assets/Chapter-5/5.1.3/Steps with Tables.png" alt="tables" /></p><br>
+- **Reducing Noise**<br>
+Para reducir el ruido, se recomienda utilizar valores predeterminados para los campos que el sistema requiere, pero que no son relevantes para su escenario.<br>
+<br><p align="center"><img src="Assets/Chapter-5/5.1.3/Reducing Noise.png" alt="noise" /></p><br>
 Para mas informacion sobre las convenciones de Gherkin: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
 
 #### 5.1.4. Software Deployment Configuration
