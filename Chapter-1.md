@@ -8,10 +8,11 @@
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-- **Samuel Ignacio Valera Garces**  
-  U202111952  
-  Ingeniería de Software  
-  Hola, mi nombre es Samuel, estudiante de la carrera de Ingeniería de software. Me considero una persona responsable, empática y con adaptación rápida al trabajo en equipo. Cuento con conocimiento en C++, HTML, GitHub, Java, Python y SQL. Mi objetivo a futuro es utilizar la tecnología para el desarrollo de aplicaciones que necesite la sociedad en el día a día. En mis tiempos libres me gusta practicar guitarra y leer.
+
+| Nombre Completo del integrante       | Descripcion de Carrera                                                                           | Fotografía                                      | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                                               |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fabiola Dayane Becerra Llempen| Ingeniería de Software<br> 5to Ciclo <br> 2024-02 <br> Universidad Peruana de Ciencias aplicadas | ![alt text](Assets/Chapter-1/fabiola.png)| Soy Fabiola Becerra, actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una apasionada de la tecnología e innovación, utilizando todas las herramientas de software disponibles. Me considero una persona dinámica, responsable y con muchas ganas de enfrentar nuevos retos y experiencias. Mis temas de interés son la inteligencia artificial y la innovación en estos campos. Siempre estoy al tanto de los temas actuales para reforzar mis conocimientos y mejorar mis habilidades blandas. Por último, me siento capacitada para colaborar en equipo y asimilar con rapidez nuevos aprendizajes. |
+|Samuel Ignacio Valera Garces| Ingeniería de Software - U202111952  ||Hola, mi nombre es Samuel, estudiante de la carrera de Ingeniería de software. Me considero una persona responsable, empática y con adaptación rápida al trabajo en equipo. Cuento con conocimiento en C++, HTML, GitHub, Java, Python y SQL. Mi objetivo a futuro es utilizar la tecnología para el desarrollo de aplicaciones que necesite la sociedad en el día a día. En mis tiempos libres me gusta practicar guitarra y leer.|
 
 ## 1.2. Solution Profile
 
