@@ -125,7 +125,27 @@ Se utilizará el servicio de [Netlify](https://www.netlify.com/) para realizar e
 
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
-##### 5.2.1.1 Sprint Planning 
+
+## Sprint #1
+##### 5.2.1.1 Sprint Planning 1
+
+### Sprint Planning Background
+- **Date:** 15/08/2024
+- **Time:** 14:00 horas (GMT -5)
+- **Location:** Modalidad remota a través de plataforma Discord
+- **Prepared By:** George
+- **Attendees:** Todos los miembros de SpeedyRent
+
+### Sprint n – 0 Review Summary
+No se ha evidenciado un sprint anterior, por lo que no hay un summary del sprint.
+
+### Sprint n – 1 Retrospective Summary
+En este sprint se espera implementar el landing page con las secciones de speedy, características del producto, testimonios y pre-footer. Al finalizar este sprint, el landing page debe estar desplegado en Netlify y cualquier usuario debería poder acceder y visualizar la página a través del link.
+
+### Sprint Goal & User Stories
+- **Sprint 1 Velocity:** 10
+- **Sum of Story Points:** 8
+- 
 ##### 5.2.1.2 Sprint Backlog 1
 ##### 5.2.1.3 Development Evidence for Sprint Review
 ##### 5.2.1.4 Testing Suite Evidence for Sprint Review
