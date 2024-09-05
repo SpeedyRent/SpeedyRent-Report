@@ -6,7 +6,12 @@
 ### Bibliografia
 Listado de referencias y fuentes.
 
-Google Trends. (s.f.). Google Trends. Recuperado de https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F04dqyb&hl=es Conventional Commits. (2020). Conventional Commits 1.0.0. Recuperado de https://www.conventionalcommits.org/en/v1.0.0/ Semantic Versioning. (s.f.). Semantic Versioning Specification (SemVer). Recuperado de https://semver.org/ W3Schools. (s.f.). HTML5 Syntax. Recuperado de https://www.w3schools.com/html/html5_syntax.asp Google. (s.f.). HTML/CSS Style Guide. Recuperado de https://google.github.io/styleguide/htmlcssguide.html Google. (s.f.). Google Java Style Guide. Recuperado de https://google.github.io/styleguide/javaguide.html
+1. Google Trends. (s.f.). Google Trends. Recuperado de https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F04dqyb&hl=es Conventional Commits. (2020). 
+2. Conventional Commits 1.0.0. Recuperado de https://www.conventionalcommits.org/en/v1.0.0/ Semantic Versioning. (s.f.). 
+3. Semantic Versioning Specification (SemVer). Recuperado de https://semver.org/ W3Schools. (s.f.).
+4. HTML5 Syntax. Recuperado de https://www.w3schools.com/html/html5_syntax.asp Google. (s.f.).
+5. HTML/CSS Style Guide. Recuperado de https://google.github.io/styleguide/htmlcssguide.html Google. (s.f.).
+6. Google Java Style Guide. Recuperado de https://google.github.io/styleguide/javaguide.html
 
 ### Anexos
 - Link de entrevista: 
