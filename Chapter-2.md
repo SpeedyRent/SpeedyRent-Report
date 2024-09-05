@@ -190,7 +190,7 @@ Después de nuestra investigación exhaustiva, hemos identificado dos empresas q
 #### 2.3.1. User Personas
 * Segmento objetivo 1: Arrendatario <br>
   Son aquellas personas que desean alquilar un vehículo por un período específico.<br>
-  <img src="Assets/Chapter-2/Daniel Rodriguez.png">
+  <img src="Assets/Chapter-2/Daniel_Rodriguez.png">
   <br>
 * Segmento objetivo 2: Arrendadores <br>
   Son aquellas personas que poseen un vehículo y lo pone a disposición de un arrendatario a cambio de un pago.   
@@ -323,9 +323,26 @@ Después de nuestra investigación exhaustiva, hemos identificado dos empresas q
   </table>
 
 #### 2.3.3. User Journey Mapping
+* Segmento objetivo 1: Arrendatario <br>
+  Son aquellas personas que desean alquilar un vehículo por un período específico.<br>
+  <img src="Assets/Chapter-2/Arrendatarios.png">
+* Segmento objetivo 2: Arrendadores <br>
+  Son aquellas personas que poseen un vehículo y lo pone a disposición de un arrendatario a cambio de un pago.   
+  <img src="Assets/Chapter-2/Arrendadores.png">
 
 #### 2.3.4. Empathy Mapping
-
+* Segmento objetivo 1: Arrendatario <br>
+  Son aquellas personas que desean alquilar un vehículo por un período específico.
+  <img src="Assets/Chapter-2/Empathy_Map_Arrendatario.png">
+* Segmento objetivo 2: Arrendadores <br>
+  Son aquellas personas que poseen un vehículo y lo pone a disposición de un arrendatario a cambio de un pago.   
+  <img src="Assets/Chapter-2/Empathy_Map_Arrendador.png"><br>
 #### 2.3.5. As-is Scenario Mapping
-
+* Segmento objetivo 1: Arrendatario <br>
+  Son aquellas personas que desean alquilar un vehículo por un período específico.
+  <img src="Assets/Chapter-2/Scenario_Mapping_Arrendatario.png">
+  <br>
+* Segmento objetivo 2: Arrendadores <br>
+  Son aquellas personas que poseen un vehículo y lo pone a disposición de un arrendatario a cambio de un pago.   
+  <img src="Assets/Chapter-2/Scenario_Mapping_Arrendador.png">
 ### 2.4. Ubiquitous Language
