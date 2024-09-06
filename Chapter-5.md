@@ -222,4 +222,4 @@ Commits:
 
 Analiticas de Colaboración:
 
-![alt text](../docs/images/contributors.PNG)
+![alt text](Assets/contributors.PNG)
