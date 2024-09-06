@@ -67,6 +67,49 @@ Nuestra startup, al ser trabajada por nosotros mismos, no toma en cuenta los cos
 
 **Initial Segment**: Usuarios que buscan opciones de alquiler con mayor transparencia y personalización.
 
+### 1.2.2.2. Lean UX Assumptions
+
+### Business Outcomes
+
+##### ¿Qué estamos tratando de lograr?
+Desarrollar una aplicación web que permita al usuario alquilar o poner en alquiler (según sea el caso) un vehículo.
+
+##### ¿Qué tipos de objetivos?
+Mejorar la experiencia y calidad de servicio que brindamos hacia nuestro público objetivo en comparación con empresas competidoras y reducir la huella de carbono.
+
+##### ¿Qué se espera a cambio de ofrecer este servicio?
+Esperamos generar ingresos por medio de nuestro servicio de suscripción basado en prioridades.
+
+### User Outcomes
+
+##### ¿Dónde encaja nuestro producto en la vida del usuario?
+En el caso de ambos usuarios, encaja en su vida diaria; al arrendatario le va a proporcionar un medio de transporte y el arrendador va a generar ingresos.
+
+#### ¿Qué características son importantes?
+- Ser segura
+- Ser "Eco-Friendly"
+- Mantener estándares de calidad
+
+### ¿Cómo debe verse nuestro producto y cómo comportarse?
+Debe presentar una interfaz limpia, intuitiva y fácil de entender para el usuario. No debe presentar errores y debe asegurar la integridad de los datos del usuario y transacciones.
+
+### 1.2.2.3. Lean UX Hypothesis Statements
+
+- Creemos que nuestro producto será exitoso  
+  **Sabremos que esto es cierto** cuando veamos que tiene una gran cantidad de usuarios recurrentes y buenas reseñas.
+
+- Creemos que nuestro producto será útil  
+  **Sabremos que esto es cierto** cuando veamos que los usuarios pueden movilizarse y generar ingresos (según sea el caso).
+
+- Creemos que nuestro producto ayuda a reducir la huella de carbono  
+  **Sabremos que estamos en lo correcto** cuando la mayoría de los autos en alquiler presenten un certificado ecológico.
+ 
+ ### 1.2.2.4. Lean UX Canvas
+
+| Business Problem | Solution Ideas | Business Outcomes |
+|------------------|----------------|-------------------|
+| El problema de negocio que buscamos abordar con nuestra aplicación reside en mejorar la experiencia de los usuarios, al momento de alquilar o dar en alquiler un vehículo, además de reducir la huella de carbono. | La aplicación puede ayudar a las personas a encontrar su arrendador o arrendatario ideal. Además, incentivamos el uso de autos eléctricos para promover las energías limpias. | Brindar la mayor comodidad y seguridad posibles a nuestros usuarios y promover el uso de energías limpias. |
+
 
 ## 1.3. Segmentos objetivo
 
