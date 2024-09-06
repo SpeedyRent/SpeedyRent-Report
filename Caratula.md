@@ -87,10 +87,33 @@
 
 ## Student Outcome
 
-| Criterio especifico | Acciones realizadas   | Conclusiones | 
-|---------------|-----------------------|-------------------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Becerra Llempen, Fabiola Dayane** <div> **TB1**<div>Realicé las entrevistas del equipo para obtener y analizar la información del segmento “arrendatario” con el equipo de trabajo y avance el capitulo V.<div> **TP1**<div> **TB2**<div> **TF**|La herramienta Trello nos permitió organizar las tareas pendientes para el desarrollo del landing page, aplicación web y el backend API. Nos brindó una plataforma flexible con tableros, listas y tarjetas para asignar responsables, establecer fechas límite y seguir el progreso. Facilitó la colaboración y comunicación en el equipo, manteniéndonos organizados y eficientes|
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Becerra Llempen, Fabiola Dayane** <div> **TB1** <div>En la primera entrega, realice la documentación de las entrevistas a los arrendatarios. También aporte en el capitulo V.| Las entrevistas permiten al equipo del proyecto tener una mejor comprensión de las necesidades del usuario y pueda diseñar soluciones que aborden estos problemas y necesidades de manera efectiva. Además, las entrevistas también ayudan a establecer una relación de confianza con los usuarios y a asegurarse de que su voz sea escuchada y considerada en el proceso de diseño del producto o servicio.|
+<table>
+  <tr>
+    <th>Criterio Especificos</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td rowspan="6"><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
+    <td><strong>Becerra Llempen, Fabiola Dayane</strong><br><strong>TB1</strong><br>Realicé las entrevistas del equipo para obtener y analizar la información del segmento “arrendatario” con el equipo de trabajo y avance el capitulo V.<br></td>
+    <td rowspan="6">El equipo demostró su capacidad para coordinarse eficazmente, aprender y aplicar nuevas tecnologías en el desarrollo de la Landing Page y Frontend Web Apps. Las entrevistas con usuarios, junto con la creación de user stories y el análisis de la problemática, fueron clave para abordar el proyecto de manera estructurada. A través de una comunicación constante y colaboración en cada sprint, lograron cumplir con los requisitos funcionales del product backlog, asegurando un despliegue exitoso del proyecto.</td>
+  </tr>
+  <tr><td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Nos coordinamos utilizando Google Meet para revisar el progreso y apoyarnos mutuamente. Implementé nuevas tecnologías para desarrollar el Landing Page, Frontend Web Apps, cumpliendo con los requisitos del product backlog y los objetivos del sprint.<br></td></tr>
+  <tr><td>3.</td></tr>
+  <tr><td>4.</td></tr>
+  <tr><td>5.</td></tr>
+  <tr><td>6.</td></tr>
+  <tr>
+    <td rowspan="6"><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
+    <td><strong>Becerra Llempen, Fabiola Dayane</strong><br><strong>TB1</strong><br>En la primera entrega, realice la documentación de las entrevistas a los arrendatarios. También aporte en el capitulo V.<br></td>
+    <td rowspan="6">El equipo trabajó de manera colaborativa para desarrollar una plataforma web, cumpliendo con los requisitos establecidos y asegurando que cada entregable y artefacto respetara la estructura solicitada. La comunicación, tanto oral como escrita, fue clara y objetiva, asegurando una correcta ortografía y gramática en cada interacción. Gracias a la planificación cuidadosa y la colaboración inclusiva, logramos cumplir con los objetivos del proyecto.</td>
+  </tr>
+  <tr><td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Durante la primera entrega, coordiné con mi equipo para identificar problemáticas clave y aplicar un proceso de UX Design basado en Lean UX. Colaboramos en la creación de user stories que reflejaran los outcomes y assumptions del proyecto.<br></td></tr>
+  <tr><td>3.</td></tr>
+  <tr><td>4.</td></tr>
+  <tr><td>5.</td></tr>
+  <tr><td>6.</td></tr>
+</table>
 
  
 ## Capítulo I: Introducción
