@@ -114,7 +114,7 @@ Para reducir el ruido, se recomienda utilizar valores predeterminados para los c
 <br><p align="center"><img src="Assets/Chapter-5/5.1.3/Reducing Noise.png" alt="noise" /></p><br>
 Para mas informacion sobre las convenciones de Gherkin: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
 
-#### 5.1.4. Software Deployment Configuration
+### 5.1.4. Software Deployment Configuration
 Se utilizará el servicio de [Netlify](https://www.netlify.com/) para realizar el proceso de deployment del landing page de SpeedyRent.<br>A continuación se presentará el proceso para realizarlo:
 
 1. Crear o tener una cuenta de Netlify ingresando a su página web oficial.<br>Esta cuenta se puede crear con Github, Gitlab o Bitbucket o con un correo convencional.<br><br>
@@ -184,10 +184,10 @@ una de las tareas identificadas para el sprint.
 </tr>
 </table>
 
-##### 5.2.1.2 Sprint Backlog 1
-##### 5.2.1.3 Development Evidence for Sprint Review
-##### 5.2.1.4 Testing Suite Evidence for Sprint Review
-##### 5.2.1.5 Execution Evidence for Sprint Review
+### 5.2.1.2 Sprint Backlog 1
+### 5.2.1.3 Development Evidence for Sprint Review
+### 5.2.1.4 Testing Suite Evidence for Sprint Review
+### 5.2.1.5 Execution Evidence for Sprint Review
 Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "LexMed". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
 **Sección de inicio**: Se implementó el Header de nuestra Landing Page.
@@ -200,9 +200,9 @@ Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page 
 ![alt text](../docs/images/plans.png) 
 **Sección de contacto y creadores**: Se añadió la sección de contacto para facilitar la comunicación con los usuarios y la información de los creadores.
 ![alt text](../docs/images/contact.png)
-##### 5.2.1.6 Services Documentation Evidence for Sprint Review
+### 5.2.1.6 Services Documentation Evidence for Sprint Review
 En este sprint solo se trabajó el landing page.
-##### 5.2.1.7 Software Deployment Evidence for Sprint Review
+### 5.2.1.7 Software Deployment Evidence for Sprint Review
 
 Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
 
@@ -212,14 +212,14 @@ Una vez creado el repositorio, entraremos a configuración del repositorio y esc
 
 ![alt text](../docs/images/deploy%20landing.png)
 
-##### 5.2.1.8 Team Collaboration Insights during Sprint
+### 5.2.1.8 Team Collaboration Insights during Sprint
 
 Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 Commits:
 
-![alt text](../docs/images/commits.png)
+![alt text](../docs/images/commits.PNG)
 
 Analiticas de Colaboración:
 
-![alt text](../docs/images/contributors.png)
+![alt text](../docs/images/contributors.PNG)
