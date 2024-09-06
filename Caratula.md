@@ -99,7 +99,7 @@
     <td rowspan="6">El equipo demostró su capacidad para coordinarse eficazmente, aprender y aplicar nuevas tecnologías en el desarrollo de la Landing Page y Frontend Web Apps. Las entrevistas con usuarios, junto con la creación de user stories y el análisis de la problemática, fueron clave para abordar el proyecto de manera estructurada. A través de una comunicación constante y colaboración en cada sprint, lograron cumplir con los requisitos funcionales del product backlog, asegurando un despliegue exitoso del proyecto.</td>
   </tr>
   <tr><td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Nos coordinamos utilizando Google Meet para revisar el progreso y apoyarnos mutuamente. Implementé nuevas tecnologías para desarrollar el Landing Page, Frontend Web Apps, cumpliendo con los requisitos del product backlog y los objetivos del sprint.<br></td></tr>
-  <tr><td>3.</td></tr>
+  <tr><td><strong>Belleza Tello, Paolo Eduardo<strong><br><strong>TB1</strong><br>Supimos como gestionar toda la primera parte del trabajo. Tuvimos varias charlas por meet para poder ir revisando puntos que no comprendiamos y solventar esas dudas. Asi cada quien pudo realizar su contribucion de la mejor manera.</td></tr>
   <tr><td>4.</td></tr>
   <tr><td>5.</td></tr>
   <tr><td>6.</td></tr>
@@ -109,7 +109,7 @@
     <td rowspan="6">El equipo trabajó de manera colaborativa para desarrollar una plataforma web, cumpliendo con los requisitos establecidos y asegurando que cada entregable y artefacto respetara la estructura solicitada. La comunicación, tanto oral como escrita, fue clara y objetiva, asegurando una correcta ortografía y gramática en cada interacción. Gracias a la planificación cuidadosa y la colaboración inclusiva, logramos cumplir con los objetivos del proyecto.</td>
   </tr>
   <tr><td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Durante la primera entrega, coordiné con mi equipo para identificar problemáticas clave y aplicar un proceso de UX Design basado en Lean UX. Colaboramos en la creación de user stories que reflejaran los outcomes y assumptions del proyecto.<br></td></tr>
-  <tr><td>3.</td></tr>
+  <tr><td><strong>Belleza Tello, Paolo Eduardo</strong><br><strong>TB1</strong><br>En esta primera entrega pude actualizarme con algunos conocimientos que mi grupo me brindo. Gracias a ello puedo realizar mi trabajo de manera eficiente. Las User Stories fueron un punto importante en nuestro proyecto ya que con eso teniamos un vistazo general de como seria nuestra propuesta de trabajo.</td></tr>
   <tr><td>4.</td></tr>
   <tr><td>5.</td></tr>
   <tr><td>6.</td></tr>
