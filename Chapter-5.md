@@ -123,13 +123,12 @@ Se utilizará el servicio de [Netlify](https://www.netlify.com/) para realizar e
 4. Seleccionamos la organización con el repositorio a deployar.<br><br>
 5. Seleccionamos el repositorio y luego nos aparecerá el botón “Deploy Site” al final del formulario.<br>De esta manera, la página ya estaría deployada en unos instantes.<br>Link de deployment: https://SpeedyRent.netlify.app/ 
 
-### 5.2. Landing Page, Services & Applications Implementation
-#### 5.2.1. Sprint 1
+## 5.2. Landing Page, Services & Applications Implementation
 
-## Sprint #1
-##### 5.2.1.1 Sprint Planning 1
+### 5.2.1. Sprint 1
 
-### Sprint Planning Background
+#### 5.2.1.1 Sprint Planning 1
+
 Para este primer sprint nos enfocaremos en los tasks para la
 elaboración de la Landing Page. Nos dividiremos entre nosotros cada
 una de las tareas identificadas para el sprint.
