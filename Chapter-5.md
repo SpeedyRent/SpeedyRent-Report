@@ -188,7 +188,7 @@ una de las tareas identificadas para el sprint.
 ### 5.2.1.3 Development Evidence for Sprint Review
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review
 ### 5.2.1.5 Execution Evidence for Sprint Review
-Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "LexMed". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
+Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "SpeedyRent". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
 **Sección de inicio**: Se implementó el Header de nuestra Landing Page.<div> [alt text](../docs/images/inicio.png)
 **Sección de Nosotros**: Se implementó la sección de nosotros para describir un poco sobre quienes somos.<div> ![alt text](../docs/images/about.png)
