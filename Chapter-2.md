@@ -185,7 +185,47 @@ Después de nuestra investigación exhaustiva, hemos identificado dos empresas q
      * **¿Qué opinas del soporte que ofrecemos para asegurar una experiencia de alquiler segura y confiable?** <br>
 
 #### 2.2.2. Registro de entrevistas
+Segmento Objetivo 1: Arrendatarios
+
+*Entrevistado 1*
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="Assets/Chapter-2/Entrevista_1.jpeg" alt="" width="575" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
+            <br>
+            </strong> Lucia
+            <br> Fernandez
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 20 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>Samuel Ignacio
+            <br>Valera Garcés
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EUVXUgrZ9y9MsBMIHeOQKPcB_XURnMBKetjKihTAeKO-ag?e=KhLX3s&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
+            </td>
+        </tr>        
+	</tbody>
+</table>
+
+Resumen: 
+Lucia es una diseñadora que vive en Estados Unidos desde hace dos años que ganó el sorteo de un carro cuando vivía en Perú. Ha tenido dificultades al intentar alquilar su vehículo en plataformas existentes, principalmente debido a la falta de información clara sobre los arrendatarios y problemas en las transacciones. Valora la transparencia y la seguridad en las plataformas de alquiler, especialmente cuando se trata de una comunicación directa y accesible en caso de problemas. Lucia considera importante un proceso de verificación riguroso para arrendadores y arrendatarios, así como la promoción del uso de vehículos eléctricos, lo que considera beneficioso para el medio ambiente.  
+
+
 #### 2.2.3. Análisis de entrevistas
+
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
 * Segmento objetivo 1: Arrendatario <br>
@@ -207,7 +247,7 @@ Después de nuestra investigación exhaustiva, hemos identificado dos empresas q
         <th colspan="2">User Persona</th>
       </tr>
       <tr>
-        <td colspan="2">Luis Martinez <br> (Segmento Objetivo 1: Arrendatario) </td>
+        <td colspan="2">Daniel Rodriguez <br> (Segmento Objetivo 1: Arrendatario) </td>
       </tr>
       <tr>
         <td>Task</td>
@@ -323,9 +363,29 @@ Después de nuestra investigación exhaustiva, hemos identificado dos empresas q
   </table>
 
 #### 2.3.3. User Journey Mapping
+* Segmento objetivo 1: Arrendatario <br>
+  Son aquellas personas que desean alquilar un vehículo por un período específico.
+  <img src="Assets/Chapter-2/User_Journey_Arrendatarios.png">
+  <br>
+* Segmento objetivo 2: Arrendadores <br>
+  Son aquellas personas que poseen un vehículo y lo pone a disposición de un arrendatario a cambio de un pago.
+  <img src="Assets/Chapter-2/User_Journey_Arrendadores.png">
 
 #### 2.3.4. Empathy Mapping
+* Segmento objetivo 1: Arrendatario <br>
+  Son aquellas personas que desean alquilar un vehículo por un período específico.
+  <img src="Assets/Chapter-2/Empathy_Map_Arrendatario.png">
+* Segmento objetivo 2: Arrendadores <br>
+  Son aquellas personas que poseen un vehículo y lo pone a disposición de un arrendatario a cambio de un pago.   
+  <img src="Assets/Chapter-2/Empathy_Map_Arrendador.png"><br>
 
 #### 2.3.5. As-is Scenario Mapping
+* Segmento objetivo 1: Arrendatario <br>
+  Son aquellas personas que desean alquilar un vehículo por un período específico.
+  <img src="Assets/Chapter-2/Scenario_Mapping_Arrendatario.png">
+  <br>
+* Segmento objetivo 2: Arrendadores <br>
+  Son aquellas personas que poseen un vehículo y lo pone a disposición de un arrendatario a cambio de un pago.   
+  <img src="Assets/Chapter-2/Scenario_Mapping_Arrendador.png">
 
 ### 2.4. Ubiquitous Language
