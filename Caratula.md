@@ -99,7 +99,7 @@
     <td rowspan="6">El equipo demostró su capacidad para coordinarse eficazmente, aprender y aplicar nuevas tecnologías en el desarrollo de la Landing Page y Frontend Web Apps. Las entrevistas con usuarios, junto con la creación de user stories y el análisis de la problemática, fueron clave para abordar el proyecto de manera estructurada. A través de una comunicación constante y colaboración en cada sprint, lograron cumplir con los requisitos funcionales del product backlog, asegurando un despliegue exitoso del proyecto.</td>
   </tr>
   <tr><td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Nos coordinamos utilizando Google Meet para revisar el progreso y apoyarnos mutuamente. Implementé nuevas tecnologías para desarrollar el Landing Page, Frontend Web Apps, cumpliendo con los requisitos del product backlog y los objetivos del sprint.<br></td></tr>
-  <tr><td><strong>Belleza Tello, Paolo Eduardo<strong><br><strong>TB1</strong><br>Supimos como gestionar toda la primera parte del trabajo. Tuvimos varias charlas por meet para poder ir revisando puntos que no comprendiamos y solventar esas dudas. Asi cada quien pudo realizar su contribucion de la mejor manera.</td></tr>
+  <tr><td><strong>Belleza Tello, Paolo Eduardo</strong><br><strong>TB1</strong><br>Supimos como gestionar toda la primera parte del trabajo. Tuvimos varias charlas por meet para poder ir revisando puntos que no comprendiamos y solventar esas dudas. Asi cada quien pudo realizar su contribucion de la mejor manera.</td></tr>
   <tr><td>4.</td></tr>
   <tr><td>5.</td></tr>
   <tr><td>6.</td></tr>
