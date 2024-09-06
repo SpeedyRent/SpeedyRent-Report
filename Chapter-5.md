@@ -218,7 +218,7 @@ Para el desarrollo de este primer sprint, todos los miembros del equipo desarrol
 
 Commits:
 
-![alt text](../docs/images/commits.PNG)
+![alt text](Assets/commits.PNG)
 
 Analiticas de Colaboración:
 
