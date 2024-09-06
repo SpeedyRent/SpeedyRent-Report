@@ -54,11 +54,17 @@ Nuestra startup, al ser trabajada por nosotros mismos, no toma en cuenta los cos
 #### 1.2.2.1. Lean UX Problem Statements
 
 **Domain**: Alquiler de vehículos  
+
 **Customer Segment**: Arrendadores y arrendatarios  
+
 **Pain Points**: Falta de transparencia, inseguridad, contratos fraudulentos, incumplimiento de pago, robo, dificultad para encontrar una opción adecuada.  
+
 **Gap**: Falta de un servicio de alquiler que ofrezca facilidad y seguridad al alquilar un vehículo en el mercado virtual peruano.  
+
 **Vision/Strategy**: Crear una plataforma confiable y accesible que ofrezca una experiencia de alquiler fluida y segura.  
+
 **Initial Segment**: Usuarios que buscan opciones de alquiler con mayor transparencia y personalización.
+
 
 ## 1.3. Segmentos objetivo
 
