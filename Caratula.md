@@ -33,8 +33,8 @@
             <td>U20201C131</td>
         </tr>
         <tr>
-            <td>----------</td>
-            <td>----</td>
+            <td>Belleza Tello, Paolo Eduardo</td>
+            <td>U20191A137</td>
         </tr>
         <tr>
             <td>----------</td>
