@@ -29,8 +29,8 @@
             <td>U20171A518</td>
         </tr>
         <tr>
-            <td>----------</td>
-            <td>----</td>
+            <td>Fernandez Alva, Maria Fernanda</td>
+            <td>U20201C131</td>
         </tr>
         <tr>
             <td>----------</td>
