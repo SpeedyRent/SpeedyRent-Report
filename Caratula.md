@@ -60,16 +60,6 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 - Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
 
 
-Analisis de Colaboración:
-
-![alt text](assets/imgs/analisis_colaborativo.png)
-
-Commits:
-
-![alt text](/assets/imgs/commits.png)
-## Contenido
-
-### Índice
 ## Índice
 
 - [Capítulo I: Introducción](#capítulo-i-introducción)
