@@ -130,26 +130,97 @@ Se utilizará el servicio de [Netlify](https://www.netlify.com/) para realizar e
 ##### 5.2.1.1 Sprint Planning 1
 
 ### Sprint Planning Background
-- **Date:** 15/08/2024
-- **Time:** 14:00 horas (GMT -5)
-- **Location:** Modalidad remota a través de plataforma Discord
-- **Prepared By:** George
-- **Attendees:** Todos los miembros de SpeedyRent
+Para este primer sprint nos enfocaremos en los tasks para la
+elaboración de la Landing Page. Nos dividiremos entre nosotros cada
+una de las tareas identificadas para el sprint.
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-08-19</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">11:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord y Google Meet</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">George</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">George, Fabiola Dayane Becerra Llempen,Samuel Ignacio Valera Garces,Maria Fernanda Fernandez Alva,Paolo Eduardo Belleza Tello, Fiorella </td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 1 Review Summary</td>
+    <td colspan="8">En esta seccion se planteo el desarrollo del landing page para nuestro proyecto llamado SpeedyRent y la reparticion de partes de caracter individual para esta primera entrega</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 1 Retrospective Summary</td>
+    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en las respectivas partes que le correspondia cada uno para esta primera entrega</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Culminar el landing Page e Informe</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">6 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">9 Story Points</td>
+</tr>
+</table>
 
-### Sprint n – 0 Review Summary
-No se ha evidenciado un sprint anterior, por lo que no hay un summary del sprint.
-
-### Sprint n – 1 Retrospective Summary
-En este sprint se espera implementar el landing page con las secciones de speedy, características del producto, testimonios y pre-footer. Al finalizar este sprint, el landing page debe estar desplegado en Netlify y cualquier usuario debería poder acceder y visualizar la página a través del link.
-
-### Sprint Goal & User Stories
-- **Sprint 1 Velocity:** 10
-- **Sum of Story Points:** 8
-- 
 ##### 5.2.1.2 Sprint Backlog 1
 ##### 5.2.1.3 Development Evidence for Sprint Review
 ##### 5.2.1.4 Testing Suite Evidence for Sprint Review
 ##### 5.2.1.5 Execution Evidence for Sprint Review
+Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "LexMed". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
+
+**Sección de inicio**: Se implementó el Header de nuestra Landing Page.
+![alt text](../docs/images/inicio.png)
+**Sección de Nosotros**: Se implementó la sección de nosotros para describir un poco sobre quienes somos.
+![alt text](../docs/images/about.png)
+**Sección de Servicios**: Se implementó la sección de los servicios ofrecidos.
+![alt text](../docs/images/services.png)
+**Sección de Planes**: Se implementó la sección de ver los tipos de suscripción.
+![alt text](../docs/images/plans.png) 
+**Sección de contacto y creadores**: Se añadió la sección de contacto para facilitar la comunicación con los usuarios y la información de los creadores.
+![alt text](../docs/images/contact.png)
 ##### 5.2.1.6 Services Documentation Evidence for Sprint Review
+En este sprint solo se trabajó el landing page.
 ##### 5.2.1.7 Software Deployment Evidence for Sprint Review
+
+Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
+
+![alt text](../docs/images/Soft%20deploy%20landing.png)
+
+Una vez creado el repositorio, entraremos a configuración del repositorio y escogemos el apartado de Pages. Se coloca la información necesaria, como la fuente del branch a utilizar para realizar el deployment. Luego de eso, Github Pages nos brindará el link y desplegará nuestra landing page en la Web.
+
+![alt text](../docs/images/deploy%20landing.png)
+
 ##### 5.2.1.8 Team Collaboration Insights during Sprint
+
+Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+Commits:
+
+![alt text](../docs/images/commits.png)
+
+Analiticas de Colaboración:
+
+![alt text](../docs/images/contributors.png)
