@@ -37,8 +37,8 @@
             <td>U20191A137</td>
         </tr>
         <tr>
-            <td>----------</td>
-            <td>----</td>
+            <td>Valera Garces, Samuel Ignacio</td>
+            <td>U202111952/td>
         </tr>
         <tr>
             <td>----------</td>
