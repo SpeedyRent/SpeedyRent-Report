@@ -100,7 +100,7 @@
   </tr>
   <tr><td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Nos coordinamos utilizando Google Meet para revisar el progreso y apoyarnos mutuamente. Implementé nuevas tecnologías para desarrollar el Landing Page, Frontend Web Apps, cumpliendo con los requisitos del product backlog y los objetivos del sprint.<br></td></tr>
   <tr><td><strong>Belleza Tello, Paolo Eduardo</strong><br><strong>TB1</strong><br>Supimos como gestionar toda la primera parte del trabajo. Tuvimos varias charlas por meet para poder ir revisando puntos que no comprendiamos y solventar esas dudas. Asi cada quien pudo realizar su contribucion de la mejor manera.</td></tr>
-  <tr><td>4.</td></tr>
+  <tr><td>Vilca Valverde, Fiorella Angela</strong><br><strong>TB1</strong><br>Realice una investigación sobre competidores que ofrecen servicios similares. Formule preguntas que seran de ayuda para las entrevistas y una análisis de entrevistas. Desarrollé User persona, User Task Matrix, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping y Ubiquitous Language.</td></tr>
   <tr><td>5.</td></tr>
   <tr><td>6.</td></tr>
   <tr>
