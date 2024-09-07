@@ -113,5 +113,5 @@ Debe presentar una interfaz limpia, intuitiva y fácil de entender para el usuar
 
 ## 1.3. Segmentos objetivo
 
-- **Arrendatarios**: Usuarios interesados en encontrar propiedades o vehículos que se ajusten a sus necesidades con énfasis en la transparencia.
+- **Arrendatarios**: Usuarios interesados en encontrar vehículos que se ajusten a sus necesidades con énfasis en la transparencia.
 - **Arrendadores**: Propietarios que buscan una plataforma confiable para listar sus vehículos y que desean atraer a conductores confiables mediante un servicio que resalte las mejores opciones y brinde filtros de seguridad.
