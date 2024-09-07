@@ -191,6 +191,68 @@ una de las tareas identificadas para el sprint.
 </table>
 
 ### 5.2.1.2 Sprint Backlog 1
+
+<table border="1">
+  <tr>
+    <th>Sprint</th>
+    <th colspan="7">Sprint 1</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimations (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do/In-Process/To-Review/Done)</th>
+  </tr>
+  <tr>
+    <td>US-001</td>
+    <td>Guía del Proceso de Registro en el Landing Page</td>
+    <td>TS-01</td>
+    <td>Proceso de registro (Desarrollado en HTML, CSS y JS)</td>
+    <td>Implementación del proceso de registro en la Landing Page, siguiendo los estándares "Responsive"</td>
+    <td>10 Hours</td>
+    <td>George y Samuel</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-002</td>
+    <td>Sección de beneficios</td>
+    <td>TS-02</td>
+    <td>Sección de Beneficios (Desarrollado en HTML)</td>
+    <td>Implementación de la sección de Beneficio, realizando pruebas para detectar y corregir errores.</td>
+    <td>7 Hours</td>
+    <td>Paolo y Maria</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-003</td>
+    <td>Sección de vehículos destacados</td>
+    <td>TS-03</td>
+    <td>Sección de vehículos(Desarrollado en HTML, CSS y JS).</td>
+    <td>Implementación de las funcionalidades , asegurándose de que todo esté correcto.</td>
+    <td>10 Hours</td>
+    <td>Fabiola y Fiorella</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-004</td>
+    <td>Sección de proceso de alquiler</td>
+    <td>TS-04</td>
+    <td>Sección del proceso de alquiler confirmado (Desarrollado en HTML, CSS y JS).</td>
+    <td>Implementación de una página intuitiva y fácil de usar.</td>
+    <td>8 Hours</td>
+    <td>George</td>
+    <td>Done</td>
+  </tr>
+</table>
+
 ### 5.2.1.3 Development Evidence for Sprint Review
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review
 ### 5.2.1.5 Execution Evidence for Sprint Review
