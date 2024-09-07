@@ -207,7 +207,7 @@ Después de nuestra investigación exhaustiva, hemos identificado dos empresas q
         <th colspan="2">User Persona</th>
       </tr>
       <tr>
-        <td colspan="2">Luis Martinez <br> (Segmento Objetivo 1: Arrendatario) </td>
+        <td colspan="2">Daniel Rodriguez <br> (Segmento Objetivo 1: Arrendatario) </td>
       </tr>
       <tr>
         <td>Task</td>
