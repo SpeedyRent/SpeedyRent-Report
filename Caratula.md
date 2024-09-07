@@ -41,8 +41,8 @@
             <td>U202111952/td>
         </tr>
         <tr>
-            <td>----------</td>
-            <td>----</td>
+            <td>Vilca Valverde, Fiorella Angela</td>
+            <td>U20211E417</td>
         </tr>      
     </table>
 </div>
@@ -57,7 +57,7 @@
 
 | Versión | Fecha       | Autor                   | Descripción de modificación                          |
 |---------|-------------|-------------------------|------------------------------------------------------|
-| TB1       | 14-08-2024| SpeedyRent  |●	Capítulo I: Introducción <br>●	Capítulo II: Requirements Elicitation & Analysis,<br>●	Capítulo III: Requirements Specification<br>●	Capítulo IV: Product Design<br>●	Capítulo V: Product Implementation, Validation & Deployment<br>●Avance de Conclusiones, Bibliografía y Anexos|
+| TB1       | 14-08-2024| Equipo en conjunto  |●	Capítulo I: Introducción <br>●	Capítulo II: Requirements Elicitation & Analysis,<br>●	Capítulo III: Requirements Specification<br>●	Capítulo IV: Product Design<br>●	Capítulo V: Product Implementation, Validation & Deployment<br>●Avance de Conclusiones, Bibliografía y Anexos|
 | TP1      | [--2024]| SpeedyRent |       |
 | TP1      | [--2024]| SpeedyRent  |                           |
 | TB2      | [--2024]| SpeedyRent  |               |
