@@ -221,12 +221,12 @@ El sistema de navegación implementado en la página es intuitivo y responsivo. 
 #### 4.6.1. Software Architecture Context Diagram
 ![home-landing-page-08](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/context_diagram.png?raw=true)
 #### 4.6.2. Software Architecture Container Diagrams
-![home-landing-page-08](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/container_diagram.png?raw=true)
+![home-landing-page-09](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/container_diagram.png?raw=true)
 #### 4.6.3. Software Architecture Components Diagrams
-![home-landing-page-08](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/component_diagram.png?raw=true)
+![home-landing-page-10](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/component_diagram.png?raw=true)
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
-![home-landing-page-07](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/diagram_class.png?raw=true)
+![home-landing-page-11](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/diagram_class.png?raw=true)
 
 #### 4.7.2. Class Dictionary
 
@@ -282,6 +282,7 @@ El sistema de navegación implementado en la página es intuitivo y responsivo. 
 |                 | provider              | String      | Proveedor del seguro                         |                                     |
 |                 | coverageType          | String      | Tipo de cobertura (básica, completa, etc.)   |                                     |
 |                 | expirationDate        | Date        | Fecha de expiración de la póliza             |                                     |
-#### 4.7.2. Class Dictionary
+
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
+![home-landing-page-12](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/diagram_database.png?raw=true)
