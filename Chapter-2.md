@@ -149,7 +149,7 @@ Speedy Rent se enfocará en ofrecer una experiencia de alquiler sencilla y rápi
 En Speedy Rent, el servicio al cliente es una prioridad. Implementaremos un servicio de chat en línea en tiempo real dentro de la plataforma, permitiendo a los usuarios hacer preguntas y resolver problemas al instante. Esto garantizará que nuestros usuarios se sientan apoyados en todo momento, mejorando su experiencia general.
 
 - **Foco en la Seguridad y Confianza:**
-La seguridad de nuestros usuarios es fundamental en Speedy Rent. Todos los arrendadores y arrendatarios deberán pasar por un proceso de verificación riguroso, que incluirá la presentación de documentación válida para confirmar su identidad. Además, realizaremos controles exhaustivos de antecedentes para asegurar que solo personas confiables formen parte de nuestra comunidad, estableciendo así un entorno seguro y de confianza para todos.
+La seguridad de nuestros usuarios es fundamental en Speedy Rent. Todos los propietarios y arrendatarios deberán pasar por un proceso de verificación riguroso, que incluirá la presentación de documentación válida para confirmar su identidad. Además, realizaremos controles exhaustivos de antecedentes para asegurar que solo personas confiables formen parte de nuestra comunidad, estableciendo así un entorno seguro y de confianza para todos.
 
 ### 2.2. Entrevistas
 #### 2.2.1. Diseño de entrevistas
