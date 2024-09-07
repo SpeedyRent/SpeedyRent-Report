@@ -245,7 +245,10 @@ El sistema de navegación implementado en la página es intuitivo y responsivo. 
 #### 4.4.4. Web Applications User Flow Diagrams
 
 ### 4.5. Web Applications Prototyping
+[SpeedyRent Figma Prototype](https://www.figma.com/proto/jR8UaDey1UVM6yuaiYr3hv/SpeedyRent?node-id=197-10857&node-type=FRAME&t=B9l92V4XeSa7yQe3-0&scaling=min-zoom&content-scaling=fixed&page-id=147%3A689&starting-point-node-id=197%3A10857)
+
 ### 4.6. Domain-Driven Software Architecture
+
 #### 4.6.1. Software Architecture Context Diagram
 ![home-landing-page-08](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/context_diagram.png?raw=true)
 #### 4.6.2. Software Architecture Container Diagrams
