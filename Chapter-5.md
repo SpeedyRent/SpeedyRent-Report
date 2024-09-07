@@ -258,18 +258,18 @@ una de las tareas identificadas para el sprint.
 ### 5.2.1.5 Execution Evidence for Sprint Review
 Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "SpeedyRent". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
-**Sección de inicio**: Se implementó el Header de nuestra Landing Page.<div> [alt text](Assets/home.PNG)
+**Sección de inicio**: Se implementó el Header de nuestra Landing Page. [alt text](Assets/home.PNG)
 **Sección de Nosotros**: Se implementó la sección de nosotros.<div> ![alt text](Assets/home2..PNG)
 **Sección de Servicios**: Se implementó la sección de Safety Measures.<div> ![alt text](Assets/home4.PNG)
-**Sección de Planes**: Se implementó la sección de ver los tipos de suscripción.<div> ![alt text](Assets/home3.PNG) 
-**Sección de contacto y creadores**: Se añadió la sección de contacto para facilitar la comunicación con los usuarios y la información de los creadores.<div>![alt text](../docs/images/contact.png)
+**Sección de Planes**: Se implementó la sección de ver los tipos de suscripción. ![alt text](Assets/home3.PNG) 
+**Sección de contacto y creadores**: Se añadió la sección de contacto para facilitar la comunicación con los usuarios y la información de los creadores.<div>![alt text](Assets/contact.PNG)
 ### 5.2.1.6 Services Documentation Evidence for Sprint Review
-En este sprint solo se trabajó el landing page.
-### 5.2.1.7 Software Deployment Evidence for Sprint Review
 
-Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.<div>![alt text](../docs/images/Soft%20deploy%20landing.png)
+En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el landing page estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
 
-Una vez creado el repositorio, entraremos a configuración del repositorio y escogemos el apartado de Pages. Se coloca la información necesaria, como la fuente del branch a utilizar para realizar el deployment. Luego de eso, Github Pages nos brindará el link y desplegará nuestra landing page en la Web.<div> ![alt text](../docs/images/deploy%20landing.png)
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Por el momento, no se ha utilizado servicios web para realizar el desarrollo del landing page, por lo que no se evidencian actividades de creación de cuentas, configuración de recursos en cloud providers, configuración de proyectos de desarrollo para integración o automatización de labor de Deployment, entre otros.
+En cuanto al deployment del landing page. Se encuentra en la plataforma de Netlify. El siguiente link es del landing page: https://SpeedyRent.netlify.app/. 
 
 ### 5.2.1.8 Team Collaboration Insights during Sprint
 
