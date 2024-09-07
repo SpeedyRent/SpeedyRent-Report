@@ -254,6 +254,15 @@ una de las tareas identificadas para el sprint.
 </table>
 
 ### 5.2.1.3 Development Evidence for Sprint Review
+| Repository         | Branch     | Commit Ids                                | Commit Message              | Commit Message Body          | Committed on (Date) |
+|--------------------|------------|------------------------------------------|-----------------------------|------------------------------|---------------------|
+| [medmeet-landing](#) | develop  | 609cfaea3f952d46fe4acb85bd6f739920b71c94 | feat: Landing Page Implementation |                              | 06/09/2024          |
+|                    | develop  | daad621d150ad03181c9ccfe068afb1317d34722 | feat: images           |                              | 08/09/2023          |
+|                    | develop  | acfdc5c50033e68b90833ef60b7b00a7682128e3  | feat: added correct forms             |                              | 08/09/2023          |
+|                    | develop  | 66c069008956fce6a641a4411c5cda7cfe7915da | feat: css changes             |                              | 08/09/2023          |
+|                    | develop  | bbc7fe45cfeef06c81f53f481a177e58d42f1b8c   | feat: index changes          |                              | 08/09/2023          |
+|                    | develop  | d1e108d2d9b1d8a9271658ec0846e489aed3be5b | feat: Landing Page Final  |                              | 09/09/2023          |
+
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review
 ### 5.2.1.5 Execution Evidence for Sprint Review
 Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "SpeedyRent". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
