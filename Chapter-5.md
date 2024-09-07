@@ -258,7 +258,7 @@ una de las tareas identificadas para el sprint.
 ### 5.2.1.5 Execution Evidence for Sprint Review
 Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "SpeedyRent". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
-**Sección de inicio**: Se implementó el Header de nuestra Landing Page. [alt text](Assets/home.PNG)
+**Sección de inicio**: Se implementó el Header de nuestra Landing Page. ![alt text](Assets/home.PNG)
 **Sección de Nosotros**: Se implementó la sección de nosotros.<div> ![alt text](Assets/home2..PNG)
 **Sección de Servicios**: Se implementó la sección de Safety Measures.<div> ![alt text](Assets/home4.PNG)
 **Sección de Planes**: Se implementó la sección de ver los tipos de suscripción. ![alt text](Assets/home3.PNG) 
