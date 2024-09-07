@@ -213,9 +213,37 @@ El sistema de navegación implementado en la página es intuitivo y responsivo. 
 
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
+#### Home
+![home-landing-page-12](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/home_wireframe.png?raw=true)
+#### Home Renter
+![home-landing-page-13](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/home_renter_wireframe.png?raw=true)
+#### Home Owner
+![home-landing-page-14](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/home_owner_wireframe.png?raw=true)
+#### Actions Renter
+![home-landing-page-15](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/actions_renter_wireframe.png?raw=true)
+#### Community
+![home-landing-page-16](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/community_wireframe.png?raw=true)
+#### About us and Resources
+![home-landing-page-17](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/about_us_and_resources_wireframe.png?raw=true)
+
 #### 4.4.2. Web Applications Wireflow Diagrams
+
 #### 4.4.3. Web Applications Mock-ups
+#### Home
+![home-landing-page-18](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/homepage_logget_out.png?raw=true)
+#### Home Renter
+![home-landing-page-19](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/home_renter.png?raw=true)
+#### Home Owner
+![home-landing-page-20](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/home_owner.png?raw=true)
+#### Actions Renter
+![home-landing-page-21](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/actions_renter.png?raw=true)
+#### Community
+![home-landing-page-22](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/community.png?raw=true)
+#### About us and Resources
+![home-landing-page-23](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/about_us_and_resources.png?raw=true)
+
 #### 4.4.4. Web Applications User Flow Diagrams
+
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
