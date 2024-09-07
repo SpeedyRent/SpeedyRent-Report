@@ -101,7 +101,7 @@
   <tr><td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Nos coordinamos utilizando Google Meet para revisar el progreso y apoyarnos mutuamente. Implementé nuevas tecnologías para desarrollar el Landing Page, Frontend Web Apps, cumpliendo con los requisitos del product backlog y los objetivos del sprint.<br></td></tr>
   <tr><td><strong>Belleza Tello, Paolo Eduardo</strong><br><strong>TB1</strong><br>Supimos como gestionar toda la primera parte del trabajo. Tuvimos varias charlas por meet para poder ir revisando puntos que no comprendiamos y solventar esas dudas. Asi cada quien pudo realizar su contribucion de la mejor manera.</td></tr>
   <tr><td>Vilca Valverde, Fiorella Angela</strong><br><strong>TB1</strong><br>Realice una investigación sobre competidores que ofrecen servicios similares. Formule preguntas que seran de ayuda para las entrevistas y una análisis de entrevistas. Desarrollé User persona, User Task Matrix, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping y Ubiquitous Language.</td></tr>
-  <tr><td>5.</td></tr>
+  <tr><td>Valera Garces, Samuel Ignacio</strong><br><strong>TB1</strong><br>Corrdinamos el desarrollo de las entrvistas, asi como las fechas de entrega de nuestras partes individuales, a lo que nos reunimos acto segudo para explicar nuestro desarrollo</td></tr>
   <tr><td>6.</td></tr>
   <tr>
     <td rowspan="6"><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
@@ -110,7 +110,7 @@
   </tr>
   <tr><td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Durante la primera entrega, coordiné con mi equipo para identificar problemáticas clave y aplicar un proceso de UX Design basado en Lean UX. Colaboramos en la creación de user stories que reflejaran los outcomes y assumptions del proyecto.<br></td></tr>
   <tr><td><strong>Belleza Tello, Paolo Eduardo</strong><br><strong>TB1</strong><br>En esta primera entrega pude actualizarme con algunos conocimientos que mi grupo me brindo. Gracias a ello puedo realizar mi trabajo de manera eficiente. Las User Stories fueron un punto importante en nuestro proyecto ya que con eso teniamos un vistazo general de como seria nuestra propuesta de trabajo.</td></tr>
-  <tr><td>4.</td></tr>
+  <tr><td>Valera Garces, Samuel Ignacio</strong><br><strong>TB1</strong><br>Realice el capitulo uno, incluyendo el desarrollo de la propuesta, Lean UX y la seleccion de los segmentos objetivo. Ademas desarrolle los ORgnaization Systems y contribui con la programacion de la landing page</td></tr>
   <tr><td>5.</td></tr>
   <tr><td>6.</td></tr>
 </table>
