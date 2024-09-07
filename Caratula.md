@@ -111,7 +111,7 @@
   <tr><td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Durante la primera entrega, coordiné con mi equipo para identificar problemáticas clave y aplicar un proceso de UX Design basado en Lean UX. Colaboramos en la creación de user stories que reflejaran los outcomes y assumptions del proyecto.<br></td></tr>
   <tr><td><strong>Belleza Tello, Paolo Eduardo</strong><br><strong>TB1</strong><br>En esta primera entrega pude actualizarme con algunos conocimientos que mi grupo me brindo. Gracias a ello puedo realizar mi trabajo de manera eficiente. Las User Stories fueron un punto importante en nuestro proyecto ya que con eso teniamos un vistazo general de como seria nuestra propuesta de trabajo.</td></tr>
   <tr><td>Valera Garces, Samuel Ignacio</strong><br><strong>TB1</strong><br>Realice el capitulo uno, incluyendo el desarrollo de la propuesta, Lean UX y la seleccion de los segmentos objetivo. Ademas desarrolle los ORgnaization Systems y contribui con la programacion de la landing page</td></tr>
-  <tr><td>5.</td></tr>
+   <tr><td>Vilca Valverde, Fiorella Angela</strong><br><strong>TB1</strong><br>En esta primera entrega identifique los segmentos como arrendador y arrendatario, gracias a ello pude realizar user persona, empathy Mapping y As-is Scenario Mapping. Tambien adquiri nuevos conocimientos y logré terminar un avance del reporte. </td></tr>
   <tr><td>6.</td></tr>
 </table>
 
