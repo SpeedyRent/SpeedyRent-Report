@@ -259,7 +259,7 @@ una de las tareas identificadas para el sprint.
 Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "SpeedyRent". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
 **Sección de inicio**: Se implementó el Header de nuestra Landing Page.<div> [alt text](Assets/home.PNG)
-**Sección de Nosotros**: Se implementó la sección de nosotros.<div> ![alt text](Assets/home2.PNG)
+**Sección de Nosotros**: Se implementó la sección de nosotros.<div> ![alt text](Assets/home2..PNG)
 **Sección de Servicios**: Se implementó la sección de Safety Measures.<div> ![alt text](Assets/home4.PNG)
 **Sección de Planes**: Se implementó la sección de ver los tipos de suscripción.<div> ![alt text](Assets/home3.PNG) 
 **Sección de contacto y creadores**: Se añadió la sección de contacto para facilitar la comunicación con los usuarios y la información de los creadores.<div>![alt text](../docs/images/contact.png)
