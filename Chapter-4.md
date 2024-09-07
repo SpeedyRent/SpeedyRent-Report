@@ -132,7 +132,8 @@ El logo debe ser simple y visible en todo el sitio, manteniendo siempre su propo
 </div>
 
 ### 4.2. Information Architecture
-![home-landing-page-1]()
+![home-landing-page-1](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/image-chapter_4_2.png?raw=true)
+
 #### 4.2.1. Organization Systems
 Los sistemas de organización se refieren a cómo se estructura la información en la página web, lo cual es clave para la usabilidad y la experiencia del usuario. En la landing page de **DriveNow**, la organización sigue un enfoque jerárquico, presentando la información en secciones claras y bien definidas, con un flujo lógico:
 <ul>
@@ -179,7 +180,37 @@ El sistema de navegación implementado en la página es intuitivo y responsivo. 
 
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
+#### Home Landing Page
+![home-landing-page-1](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/home_wireframe.png?raw=true)
+#### Why SpeedyRent
+![home-landing-page-2](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/why_drivenow_wireframe.png?raw=true)
+#### Testimonies
+![home-landing-page-3](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/testimonies_wireframe.png?raw=true)
+#### Safety
+![home-landing-page-4](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/safety_wireframe.png?raw=true)
+#### Premium Planes
+![home-landing-page-5](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/premium_wireframe.png?raw=true)
+#### Contant
+![home-landing-page-6](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/contact_wireframe.png?raw=true)
+
 #### 4.3.2. Landing Page Mock-up
+#### Home Landing Page
+![home-landing-page-01](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/home.png?raw=true)
+#### Why SpeedyRent
+![home-landing-page-02](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/ehy_drivenow.png?raw=true)
+#### Testimonies
+![home-landing-page-03](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/testimonies.png?raw=true)
+#### Safety
+![home-landing-page-04](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/safety.png?raw=true)
+
+#### Premium Planes
+
+![home-landing-page-05](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/premium%20pass.png?raw=true)
+#### Team
+![home-landing-page-06](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/our_fotos.png?raw=true)
+#### Contant
+![home-landing-page-07](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter4/Assets/Chapter-4/contact.png?raw=true)
+
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
 #### 4.4.2. Web Applications Wireflow Diagrams
