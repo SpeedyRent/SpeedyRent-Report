@@ -277,8 +277,7 @@ Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page 
 En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el landing page estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
-Por el momento, no se ha utilizado servicios web para realizar el desarrollo del landing page, por lo que no se evidencian actividades de creación de cuentas, configuración de recursos en cloud providers, configuración de proyectos de desarrollo para integración o automatización de labor de Deployment, entre otros.
-En cuanto al deployment del landing page. Se encuentra en la plataforma de Netlify. El siguiente link es del landing page: https://SpeedyRent.netlify.app/. 
+Para el despliegue de la landing page, utilizamos GitHub Pages. Esta herramienta nos permitió publicar la página web directamente desde el código almacenado en un repositorio. El enlace de acceso a la landing page es el siguiente: https://speedyrent.github.io/LandingPage-SpeedyRent.github.io/.
 
 ### 5.2.1.8 Team Collaboration Insights during Sprint
 
