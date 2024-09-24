@@ -290,3 +290,64 @@ Commits:
 Analiticas de Colaboración:
 
 ![alt text](Assets/contributors.PNG)
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1 Sprint Planning 2
+
+Para este primer sprint nos enfocaremos en los tasks para la
+elaboración de la Landing Page. Nos dividiremos entre nosotros cada
+una de las tareas identificadas para el sprint.
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 2 </th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-09-19</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">11:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord y Google Meet</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">George, Fabiola Dayane Becerra Llempen,Samuel Ignacio Valera Garces,Maria Fernanda Fernandez Alva,Paolo Eduardo Belleza Tello, Fiorella</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">George, Fabiola Dayane Becerra Llempen,Samuel Ignacio Valera Garces,Maria Fernanda Fernandez Alva,Paolo Eduardo Belleza Tello, Fiorella </td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Review Summary</td>
+    <td colspan="8">En esta seccion se planteo el desarrollo del landing page para nuestro proyecto llamado SpeedyRent y la reparticion de partes de caracter individual para esta primera entrega</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Retrospective Summary</td>
+    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en las respectivas partes que le correspondia cada uno para esta primera entrega</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Avanzar el trabajo en vue.js</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">6 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">9 Story Points</td>
+</tr>
+</table>
+
+
