@@ -350,4 +350,96 @@ una de las tareas identificadas para el sprint.
 </tr>
 </table>
 
+### 5.2.2.1. Sprint Backlog 2
+
+<table border="1">
+  <tr>
+    <th>Sprint</th>
+    <th colspan="7">Sprint 1</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimations (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do/In-Process/To-Review/Done)</th>
+  </tr>
+  <tr>
+    <td>US-005</td>
+    <td>Proceso de Registro Seguro para Arrendadores </td>
+    <td>TS-05</td>
+    <td>User Bounded Context </td>
+    <td>Implementación la busqueda de vehiculos </td>
+    <td>3 Hours</td>
+    <td>GE</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-006</td>
+    <td>Proceso de Registro Seguro para Arrendatarios </td>
+    <td>TS-02</td>
+    <td>Sección de Beneficios (Desarrollado en HTML)</td>
+    <td>Implementación de la sección de Beneficio, realizando pruebas para detectar y corregir errores.</td>
+    <td>7 Hours</td>
+    <td>GE</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-007</td>
+    <td>Postear y eliminar un vehiculo(Arrendador)</td>
+    <td>TS-03</td>
+    <td>Navegation system </td>
+    <td>Implementación de las funcionalidades , asegurándose de que todo esté correcto.</td>
+    <td>10 Hours</td>
+    <td>FGEa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+     <td>US-008</td>
+    <td>Modificar parametros del vehiculo publicado(Arrendador)  </td>
+    <td>TS-05</td>
+    <td>Navegation system </td>
+    <td>Implementación la busqueda de vehiculos </td>
+    <td>3 Hours</td>
+    <td>GE</td>
+    <td>Done</td>
+  </tr>
+    <tr>
+   <td>US-009</td>
+    <td>Filtro de búsqueda de vehículos para personas que desean alquilar </td>
+    <td>TS-05</td>
+    <td> Navegation system </td>
+    <td>Implementación la busqueda de vehiculos </td>
+    <td>3 Hours</td>
+    <td>Fabiola Becerra</td>
+    <td>Done</td>
+  </tr>
+      <tr>
+   <td>US-010</td>
+    <td>Rentar el vehiculo del arrendador (Arrendatario) </td>
+    <td>TS-05</td>
+    <td>User Bounded Context </td>
+    <td>Implementación la busqueda de vehiculos </td>
+    <td>3 Hours</td>
+    <td>GE</td>
+    <td>Done</td>
+  </tr>
+      <tr>
+   <td>US-011</td>
+    <td>Aceptar o rechazar solicitud del arrendatario (Arrendador) </td>
+    <td>TS-05</td>
+    <td>User Bounded Context </td>
+    <td>Implementación la busqueda de vehiculos </td>
+    <td>3 Hours</td>
+    <td>GE</td>
+    <td>Done</td>
+  </tr>
+</table>
 
