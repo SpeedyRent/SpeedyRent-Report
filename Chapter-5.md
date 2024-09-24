@@ -351,6 +351,9 @@ una de las tareas identificadas para el sprint.
 </table>
 
 ### 5.2.2.1. Sprint Backlog 2
+En esta sección se presentan las tareas realizadas durante el presente sprint, acompañadas de una captura de pantalla de Trello y el enlace
+correspondiente al tablero.
+Link de Trello:
 
 <table border="1">
   <tr>
@@ -384,7 +387,7 @@ una de las tareas identificadas para el sprint.
   <tr>
     <td>US-006</td>
     <td>Proceso de Registro Seguro para Arrendatarios </td>
-    <td>TS-02</td>
+    <td>TS-06</td>
     <td>Sección de Beneficios (Desarrollado en HTML)</td>
     <td>Implementación de la sección de Beneficio, realizando pruebas para detectar y corregir errores.</td>
     <td>7 Hours</td>
@@ -394,7 +397,7 @@ una de las tareas identificadas para el sprint.
   <tr>
     <td>US-007</td>
     <td>Postear y eliminar un vehiculo(Arrendador)</td>
-    <td>TS-03</td>
+    <td>TS-07</td>
     <td>Navegation system </td>
     <td>Implementación de las funcionalidades , asegurándose de que todo esté correcto.</td>
     <td>10 Hours</td>
@@ -404,7 +407,7 @@ una de las tareas identificadas para el sprint.
   <tr>
      <td>US-008</td>
     <td>Modificar parametros del vehiculo publicado(Arrendador)  </td>
-    <td>TS-05</td>
+    <td>TS-08</td>
     <td>Navegation system </td>
     <td>Implementación la busqueda de vehiculos </td>
     <td>3 Hours</td>
@@ -414,7 +417,7 @@ una de las tareas identificadas para el sprint.
     <tr>
    <td>US-009</td>
     <td>Filtro de búsqueda de vehículos para personas que desean alquilar </td>
-    <td>TS-05</td>
+    <td>TS-09</td>
     <td> Navegation system </td>
     <td>Implementación la busqueda de vehiculos </td>
     <td>3 Hours</td>
@@ -424,7 +427,7 @@ una de las tareas identificadas para el sprint.
       <tr>
    <td>US-010</td>
     <td>Rentar el vehiculo del arrendador (Arrendatario) </td>
-    <td>TS-05</td>
+    <td>TS-10</td>
     <td>User Bounded Context </td>
     <td>Implementación la busqueda de vehiculos </td>
     <td>3 Hours</td>
@@ -434,7 +437,7 @@ una de las tareas identificadas para el sprint.
       <tr>
    <td>US-011</td>
     <td>Aceptar o rechazar solicitud del arrendatario (Arrendador) </td>
-    <td>TS-05</td>
+    <td>TS-11</td>
     <td>User Bounded Context </td>
     <td>Implementación la busqueda de vehiculos </td>
     <td>3 Hours</td>
@@ -443,3 +446,53 @@ una de las tareas identificadas para el sprint.
   </tr>
 </table>
 
+### 5.2.2.3 Development Evidence for Sprint Review
+| Repository         | Branch     | Commit Ids                                | Commit Message              | Commit Message Body          | Committed on (Date) |
+|--------------------|------------|------------------------------------------|-----------------------------|------------------------------|---------------------|
+| [SpeedyRent-Frontend](#) | develop  |  | feat/Search-Vehicle-filters |                              | 23/09/2024          |
+|                    | develop  |  | add-edit-delete-vehicle         |                              | 23/09/2024          |
+|                    | develop  |   | feat/Send-request-tenant             |                              | 23/09/2024            |
+|                    | develop  |  | accept-reject-request-owner            |                              | 23/09/2024             |
+|                    | develop  |    | feat/register-renter         |                              | 23/09/2024            |
+|                    | develop  |  | feat/login-owner  |                              | 23/09/2024           |
+
+### 5.2.2.4 Testing Suite Evidence for Sprint Review
+### 5.2.2.5 Execution Evidence for Sprint Review
+Para esta primera entrega, nuestro equipo a conseguido elaborar el fronted del proyecto "SpeedyRent". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
+
+**Sección de Registro Arrendadores**: Proceso de Registro Seguro para Arrendadores . ![alt text](Assets/.PNG)
+**Sección de Registro Arrendatarios**: Proceso de Registro Seguro para Arrendatarios .<div> ![alt text](Assets/..PNG)
+**Sección de postear y eliminar vehiculo**: Postear y eliminar un vehiculo(Arrendador).<div> ![alt text](Assets/.PNG)
+**Sección de modificar parametros**:  Modificar parametros del vehiculo publicado(Arrendador). ![alt text](Assets/home3.PNG) 
+**Sección de busqueda y filtro**: Busqueda de vehiculo a rentar (Arrendatario).<div>![alt text](Assets/busqueda.PNG)
+**Sección de renta**:Rentar el vehiculo del arrendador (Arrendatario). <div>![alt text](Assets/.PNG)
+**Sección de aceptar y rechazar**: Aceptar o rechazar solicitud del arrendatario (Arrendador). <div>![alt text](Assets/.PNG)
+### 5.2.2.6 Services Documentation Evidence for Sprint Review
+
+En el alcance del sprint 2, se ha dado prioridad al desarrollo del frontend de la aplicación web, lo que significa que en este sprint no se
+observa la utilización de servicios web.
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Durante este sprint, se ha completado el desarrollo del frontend de la aplicación web. Para el despliegue, se utilizaron las siguientes
+herramientas.
+Aquí está la lista ordenada:
+Git: Sistema de control de versiones que utilizamos para trabajar de forma colaborativa y monitorear las versiones de la aplicación web
+en un repositorio remoto.
+Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilita la
+colaboración en el desarrollo.
+GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro
+proyecto.
+Netlify: Una plataforma que automatiza la implementación de sitios web estáticos, lo que nos permitió alojar y desplegar nuestra
+aplicación web.
+
+### 5.2.2.8 Team Collaboration Insights during Sprint
+
+Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+Commits:
+
+![alt text](Assets/.PNG)
+
+Analiticas de Colaboración:
+
+![alt text](Assets/.PNG)
