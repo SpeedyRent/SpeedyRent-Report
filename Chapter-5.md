@@ -456,8 +456,10 @@ Link de Trello:
 |                    | develop  |    | feat/register-renter         |                              | 23/09/2024            |
 |                    | develop  |  | feat/login-owner  |                              | 23/09/2024           |
 
+
 ### 5.2.2.4 Testing Suite Evidence for Sprint Review
 ### 5.2.2.5 Execution Evidence for Sprint Review
+
 Para esta primera entrega, nuestro equipo a conseguido elaborar el fronted del proyecto "SpeedyRent". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
 **Sección de Registro Arrendadores**: Proceso de Registro Seguro para Arrendadores . ![alt text](Assets/.PNG)
@@ -467,6 +469,7 @@ Para esta primera entrega, nuestro equipo a conseguido elaborar el fronted del p
 **Sección de busqueda y filtro**: Busqueda de vehiculo a rentar (Arrendatario).<div>![alt text](Assets/busqueda.PNG)
 **Sección de renta**:Rentar el vehiculo del arrendador (Arrendatario). <div>![alt text](Assets/.PNG)
 **Sección de aceptar y rechazar**: Aceptar o rechazar solicitud del arrendatario (Arrendador). <div>![alt text](Assets/.PNG)
+
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review
 
 En el alcance del sprint 2, se ha dado prioridad al desarrollo del frontend de la aplicación web, lo que significa que en este sprint no se
