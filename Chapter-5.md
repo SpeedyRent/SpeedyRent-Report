@@ -449,24 +449,24 @@ Link de Trello:
 ### 5.2.2.3 Development Evidence for Sprint Review
 | Repository         | Branch     | Commit Ids                                | Commit Message              | Commit Message Body          | Committed on (Date) |
 |--------------------|------------|------------------------------------------|-----------------------------|------------------------------|---------------------|
-| [SpeedyRent-Frontend](#) | develop  | ae3b5f885949bf55cab9a0a8d8291622868ec714 | feat/Search-Vehicle-filters |                              | 23/09/2024          |
-|                    | develop  |  | add-edit-delete-vehicle         |                              | 23/09/2024          |
-|                    | develop  |   | feat/Send-request-tenant             |                              | 23/09/2024            |
-|                    | develop  |  | accept-reject-request-owner            |                              | 23/09/2024             |
-|                    | develop  |    | feat/register-renter         |                              | 23/09/2024            |
-|                    | develop  |  | feat/login-owner  |                              | 23/09/2024           |
+| [SpeedyRent-Frontend](#) | develop  | ae3b5f885949bf55cab9a0a8d8291622868ec714 | feat/Search-Vehicle-filters | Se creo la carpeta que tendra el contenido estable                             | 23/09/2024          |
+|  [SpeedyRent-Frontend](#)             | develop  |ce9e232bc95b69682aca66137888559e5f3267f7  | add-edit-delete-vehicle         |                           Se creo la carpeta que tendra el contenido estable    | 23/09/2024          |
+|[SpeedyRent-Frontend](#)                | develop  |a92b9913e1cfa0096a762cafd9f180330b9d6b1b   | feat/Send-request-tenant             |                          Se creo la carpeta que tendra el contenido estable     | 23/09/2024            |
+| [SpeedyRent-Frontend](#)               | develop  | c97fab98cedd05983491f6dcd9ef98607f7023d5 | accept-reject-request-owner            |                          Se creo la carpeta que tendra el contenido estable     | 23/09/2024             |
+|  [SpeedyRent-Frontend](#)              | develop  |  2597ea6983bfd30d2edff77197f98ddb76e49e6b  | feat/register-renter         |                          Se creo la carpeta que tendra el contenido estable     | 23/09/2024            |
+|  [SpeedyRent-Frontend](#)              | develop  | 94c635ae977a59d14050f5b6c7eb1a592801015d | feat/login-owner  |                          Se creo la carpeta que tendra el contenido estable     | 23/09/2024           |
 
 
 ### 5.2.2.4 Testing Suite Evidence for Sprint Review
 ### 5.2.2.5 Execution Evidence for Sprint Review
 
-Para esta primera entrega, nuestro equipo a conseguido elaborar el fronted del proyecto "SpeedyRent". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
+En este Sprint (Sprint 2), nuestro equipo a conseguido elaborar el fronted del proyecto "SpeedyRent". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
 **Sección de Registro Arrendadores**: Proceso de Registro Seguro para Arrendadores . ![Registro_Arrendador](https://i.postimg.cc/wxs8rZj7/Whats-App-Image-2024-09-24-at-10-29-44-PM.jpg)
 **Sección de Registro Arrendatarios**: Proceso de Registro Seguro para Arrendatarios .<div> ![alt text](Assets/..PNG)
 **Sección de postear y eliminar vehiculo**: Postear y eliminar un vehiculo(Arrendador).<div> ![alt text](Assets/.PNG)
-**Sección de modificar parametros**:  Modificar parametros del vehiculo publicado(Arrendador). ![alt text](Assets/home3.PNG) 
-**Sección de busqueda y filtro**: Busqueda de vehiculo a rentar (Arrendatario).<div>![alt text](Assets/busqueda.PNG)
+**Sección de modificar parametros**:  Modificar parametros del vehiculo publicado(Arrendador). ![alt text](Assets/.PNG) 
+**Sección de busqueda y filtro**: Como el usuario realiza la busqueda de vehiculo a rentar (Arrendatario).<div>![alt text](Assets/busqueda.png)
 **Sección de renta**:Rentar el vehiculo del arrendador (Arrendatario). <div>![alt text](Assets/.PNG)
 **Sección de aceptar y rechazar**: Aceptar o rechazar solicitud del arrendatario (Arrendador). <div>![Table to accept or reject a vehicle](Assets/accept_reject.jpg)
 
@@ -488,14 +488,15 @@ proyecto.
 Netlify: Una plataforma que automatiza la implementación de sitios web estáticos, lo que nos permitió alojar y desplegar nuestra
 aplicación web.
 
+![alt text](Assets/frontend.png) 
 ### 5.2.2.8 Team Collaboration Insights during Sprint
 
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 Commits:
 
-![alt text](Assets/.PNG)
+![alt text](Assets/commits.png)
 
 Analiticas de Colaboración:
 
-![alt text](Assets/.PNG)
+![alt text](Assets/timeline.png)
