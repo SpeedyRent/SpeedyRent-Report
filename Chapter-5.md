@@ -400,8 +400,8 @@ Link de Trello:
     <td>TS-07</td>
     <td>Navegation system </td>
     <td>Implementación de las funcionalidades , asegurándose de que todo esté correcto.</td>
-    <td>10 Hours</td>
-    <td>FGEa</td>
+    <td>6 Hours</td>
+    <td>Samuel Valera</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -411,7 +411,7 @@ Link de Trello:
     <td>Navegation system </td>
     <td>Implementación la busqueda de vehiculos </td>
     <td>3 Hours</td>
-    <td>GE</td>
+    <td>Samuel Valera</td>
     <td>Done</td>
   </tr>
     <tr>
