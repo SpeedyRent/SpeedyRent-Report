@@ -468,7 +468,7 @@ Para esta primera entrega, nuestro equipo a conseguido elaborar el fronted del p
 **Sección de modificar parametros**:  Modificar parametros del vehiculo publicado(Arrendador). ![alt text](Assets/home3.PNG) 
 **Sección de busqueda y filtro**: Busqueda de vehiculo a rentar (Arrendatario).<div>![alt text](Assets/busqueda.PNG)
 **Sección de renta**:Rentar el vehiculo del arrendador (Arrendatario). <div>![alt text](Assets/.PNG)
-**Sección de aceptar y rechazar**: Aceptar o rechazar solicitud del arrendatario (Arrendador). <div>![alt text](Assets/.PNG)
+**Sección de aceptar y rechazar**: Aceptar o rechazar solicitud del arrendatario (Arrendador). <div>![Table to accept or reject a vehicle](Assets/accept_reject.jpg)
 
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review
 
