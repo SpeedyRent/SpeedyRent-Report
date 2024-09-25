@@ -463,7 +463,7 @@ Link de Trello:
 En este Sprint (Sprint 2), nuestro equipo a conseguido elaborar el fronted del proyecto "SpeedyRent". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
 **Sección de Registro Arrendadores**: Proceso de Registro Seguro para Arrendadores . ![Registro_Arrendador](https://i.postimg.cc/wxs8rZj7/Whats-App-Image-2024-09-24-at-10-29-44-PM.jpg)
-**Sección de Registro Arrendatarios**: Proceso de Registro Seguro para Arrendatarios .<div> ![alt text](Assets/..PNG)
+**Sección de Registro Arrendatarios**: Proceso de Registro Seguro para Arrendatarios . ![Registro_Arrendador](https://github.com/SpeedyRent/SpeedyRent-Report/blob/chapter5/Assets/image.png?raw=true)
 **Sección de postear y eliminar vehiculo**: Postear y eliminar un vehiculo(Arrendador).<div> ![alt text](Assets/.PNG)
 **Sección de modificar parametros**:  Modificar parametros del vehiculo publicado(Arrendador). ![alt text](Assets/.PNG) 
 **Sección de busqueda y filtro**: Como el usuario realiza la busqueda de vehiculo a rentar (Arrendatario).<div>![alt text](Assets/busqueda.png)
