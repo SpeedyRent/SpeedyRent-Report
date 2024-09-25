@@ -449,12 +449,12 @@ Link de Trello:
 ### 5.2.2.3 Development Evidence for Sprint Review
 | Repository         | Branch     | Commit Ids                                | Commit Message              | Commit Message Body          | Committed on (Date) |
 |--------------------|------------|------------------------------------------|-----------------------------|------------------------------|---------------------|
-| [[SpeedyRent-Frontend](https://github.com/SpeedyRent/SpeedyRent-Frontend)](#) | develop  | ae3b5f885949bf55cab9a0a8d8291622868ec714 | feat/Search-Vehicle-filters | Se creo la carpeta que tendra el contenido estable                             | 23/09/2024          |
-|  [SpeedyRent-Frontend](#)             | develop  |ce9e232bc95b69682aca66137888559e5f3267f7  | add-edit-delete-vehicle         |                           Se creo la carpeta que tendra el contenido estable    | 23/09/2024          |
-|[SpeedyRent-Frontend](#)                | develop  |a92b9913e1cfa0096a762cafd9f180330b9d6b1b   | feat/Send-request-tenant             |                          Se creo la carpeta que tendra el contenido estable     | 23/09/2024            |
-| [SpeedyRent-Frontend](#)               | develop  | c97fab98cedd05983491f6dcd9ef98607f7023d5 | accept-reject-request-owner            |                          Se creo la carpeta que tendra el contenido estable     | 23/09/2024             |
-|  [SpeedyRent-Frontend](#)              | develop  |  2597ea6983bfd30d2edff77197f98ddb76e49e6b  | feat/register-renter         |                          Se creo la carpeta que tendra el contenido estable     | 23/09/2024            |
-|  [SpeedyRent-Frontend](#)              | develop  | 94c635ae977a59d14050f5b6c7eb1a592801015d | feat/login-owner  |                          Se creo la carpeta que tendra el contenido estable     | 23/09/2024           |
+| [SpeedyRent-Frontend(https://github.com/SpeedyRent/SpeedyRent-Frontend)](#) | develop  | ae3b5f885949bf55cab9a0a8d8291622868ec714 | feat/Search-Vehicle-filters | Se creo la carpeta que tendra el contenido estable                             | 23/09/2024          |
+|  [SpeedyRent-Frontend(https://github.com/SpeedyRent/SpeedyRent-Frontend)](#)             | develop  |ce9e232bc95b69682aca66137888559e5f3267f7  | add-edit-delete-vehicle         |                           Se creo la carpeta que tendra el contenido estable    | 23/09/2024          |
+|[SpeedyRent-Frontend(https://github.com/SpeedyRent/SpeedyRent-Frontend)](#)                | develop  |a92b9913e1cfa0096a762cafd9f180330b9d6b1b   | feat/Send-request-tenant             |                          Se creo la carpeta que tendra el contenido estable     | 23/09/2024            |
+| [SpeedyRent-Frontend(https://github.com/SpeedyRent/SpeedyRent-Frontend)](#)               | develop  | c97fab98cedd05983491f6dcd9ef98607f7023d5 | accept-reject-request-owner            |                          Se creo la carpeta que tendra el contenido estable     | 23/09/2024             |
+|  [SpeedyRent-Frontend(https://github.com/SpeedyRent/SpeedyRent-Frontend)](#)              | develop  |  2597ea6983bfd30d2edff77197f98ddb76e49e6b  | feat/register-renter         |                          Se creo la carpeta que tendra el contenido estable     | 23/09/2024            |
+|  [SpeedyRent-Frontend(https://github.com/SpeedyRent/SpeedyRent-Frontend)](#)              | develop  | 94c635ae977a59d14050f5b6c7eb1a592801015d | feat/login-owner  |                          Se creo la carpeta que tendra el contenido estable     | 23/09/2024           |
 
 
 ### 5.2.2.4 Testing Suite Evidence for Sprint Review
