@@ -58,7 +58,14 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 <br>
 - Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas para cada capítulo, lo que permitió un mayor avance y equidad en el desarrollo del informe.
 
+- Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo.
+
+**Entrega N°1: TP1**
+<br>
+- Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas para cada capítulo, lo que permitió un mayor avance y equidad en el desarrollo del informe.
+
 - Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
+
 
 
 ## Índice
