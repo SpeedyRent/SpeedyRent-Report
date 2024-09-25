@@ -3,6 +3,7 @@
  - Las entrevistas al segmento objetivo que apuntamos nos permitieron identificar de manera cercana las historias de usuario y las diversas situaciones e inquietudes que pueden existir y cómo podemos resolverlos con el producto que ofrecemos a través del needfinding. 
  - La documentación realizada en la primera entrega nos permitirá implementar un software con bases y objetivos claros al haber identificado lo que necesitamos para solucionar la problemática. Sin embargo, reconocemos que realizaremos cambios al momento de reevaluar algunas necesidades para obtener un producto final esperado. 
  - Github es un software de control de versiones indispensable para trabajar el proyecto en equipo. Además, se integra fácilmente con muchas plataformas de servicios como softwares de deployment.
+   
 ### Bibliografia
 Listado de referencias y fuentes.
 
@@ -16,3 +17,4 @@ Listado de referencias y fuentes.
 ### Anexos
 - Link de entrevista: 
 - Link de Trello a Product Backlog y Sprint planning :https://trello.com/invite/b/66cf8822cf33357811c64397/ATTI80bb2223096a3d350fa2eaf1f123e026D8F0FD05/speedy-rent
+- Link de la Aplicación Web: https://speedy-rent-34e63.web.app/
