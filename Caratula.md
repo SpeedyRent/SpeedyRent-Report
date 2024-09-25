@@ -111,7 +111,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   </tr>
   <tr>
     <td rowspan="6"><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
-    <td><strong>Becerra Llempen, Fabiola Dayane</strong><br><strong>TB1</strong><br>Realicé las entrevistas del equipo para obtener y analizar la información del segmento “arrendatario” con el equipo de trabajo y avance el capitulo V. TP1</strong><br> swdeff</td><br>
+    <td><strong>Becerra Llempen, Fabiola Dayane</strong><br><strong>TB1</strong><br>Realicé las entrevistas del equipo para obtener y analizar la información del segmento “arrendatario” con el equipo de trabajo y avance el capitulo V.</td><br>
     <td rowspan="6">El equipo demostró su capacidad para coordinarse eficazmente, aprender y aplicar nuevas tecnologías en el desarrollo de la Landing Page y Frontend Web Apps. Las entrevistas con usuarios, junto con la creación de user stories y el análisis de la problemática, fueron clave para abordar el proyecto de manera estructurada. A través de una comunicación constante y colaboración en cada sprint, lograron cumplir con los requisitos funcionales del product backlog, asegurando un despliegue exitoso del proyecto.</td>
   </tr>
   <tr><td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Nos coordinamos utilizando Google Meet para revisar el progreso y apoyarnos mutuamente. Implementé nuevas tecnologías para desarrollar el Landing Page, Frontend Web Apps, cumpliendo con los requisitos del product backlog y los objetivos del sprint.<br></td></tr>
