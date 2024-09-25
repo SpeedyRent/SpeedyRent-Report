@@ -380,8 +380,8 @@ Link de Trello:
     <td>TS-05</td>
     <td>User Bounded Context </td>
     <td>Implementación la busqueda de vehiculos </td>
-    <td>3 Hours</td>
-    <td>GE</td>
+    <td>4 Hours</td>
+    <td>Fiorella Vilca</td>
     <td>Done</td>
   </tr>
   <tr>
