@@ -43,7 +43,8 @@
 
 | Versión | Fecha       | Autor                   | Descripción de modificación                          |
 |---------|-------------|-------------------------|------------------------------------------------------|
-| TB1  y TP1     | 06/09/2024| Galvan Cerron George Aldo,Becerra llempen Fabiola Becerra   |●	Capítulo I: Introducción <br>●	Capítulo II: Requirements Elicitation & Analysis,<br>●	Capítulo III: Requirements Specification<br>●	Capítulo IV: Product Design<br>●	Capítulo V: Product Implementation, Validation & Deployment<br>●Avance de Conclusiones, Bibliografía y Anexos|
+| TB1   | 06/09/2024| Galvan Cerron George Aldo,Becerra llempen Fabiola Becerra   |●	Capítulo I: Introducción <br>●	Capítulo II: Requirements Elicitation & Analysis,<br>●	Capítulo III: Requirements Specification<br>●	Capítulo IV: Product Design<br>●	Capítulo V: Product Implementation, Validation & Deployment<br>●Avance de Conclusiones, Bibliografía y Anexos|
+| TP1   | 23/09/2024| Galvan Cerron George Aldo,Becerra llempen Fabiola Becerra   |●	Capítulo I: Introducción <br>●	Capítulo II: Requirements Elicitation & Analysis,<br>●	Capítulo III: Requirements Specification<br>●	Capítulo IV: Product Design<br>●	Capítulo V: Product Implementation, Validation & Deployment<br>●Avance de Conclusiones, Bibliografía y Anexos|
 
 ---
 
