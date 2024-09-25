@@ -426,12 +426,12 @@ Link de Trello:
   </tr>
       <tr>
    <td>US-010</td>
-    <td>Rentar el vehiculo del arrendador (Arrendatario) </td>
+    <td>Mandar solicitud al Arrendador </td>
     <td>TS-10</td>
-    <td>User Bounded Context </td>
-    <td>Implementación la busqueda de vehiculos </td>
-    <td>3 Hours</td>
-    <td>GE</td>
+    <td>Fill out a form to send the request </td>
+    <td>Two components, one to fill out the request fields and the other to view the requests </td>
+    <td>30 Hours</td>
+    <td>Maria Fernanda Fernandez Alva</td>
     <td>Done</td>
   </tr>
       <tr>
@@ -467,7 +467,7 @@ En este Sprint (Sprint 2), nuestro equipo a conseguido elaborar el fronted del p
 **Sección de postear y eliminar vehiculo**: Postear y eliminar un vehiculo(Arrendador).<div> ![alt text](Assets/.PNG)
 **Sección de modificar parametros**:  Modificar parametros del vehiculo publicado(Arrendador). ![alt text](Assets/.PNG) 
 **Sección de busqueda y filtro**: Como el usuario realiza la busqueda de vehiculo a rentar (Arrendatario).<div>![alt text](Assets/busqueda.png)
-**Sección de renta**:Rentar el vehiculo del arrendador (Arrendatario). <div>![alt text](Assets/.PNG)
+**Sección de solicitud**:Mandar solicitud para alquilar el vehiculo. <div>![form request](Assets/Form_request.png)
 **Sección de aceptar y rechazar**: Aceptar o rechazar solicitud del arrendatario (Arrendador). <div>![Table to accept or reject a vehicle](Assets/accept_reject.jpg)
 
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review
