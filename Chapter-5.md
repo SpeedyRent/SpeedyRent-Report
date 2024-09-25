@@ -438,10 +438,10 @@ Link de Trello:
    <td>US-011</td>
     <td>Aceptar o rechazar solicitud del arrendatario (Arrendador) </td>
     <td>TS-11</td>
-    <td>User Bounded Context </td>
-    <td>Implementación la busqueda de vehiculos </td>
-    <td>3 Hours</td>
-    <td>GE</td>
+    <td>Request managed by the landlord </td>
+    <td>Component with the functionality to accept or reject a vehicle </td>
+    <td>48 Hours</td>
+    <td>Paolo Eduardo Belleza Tello</td>
     <td>Done</td>
   </tr>
 </table>
