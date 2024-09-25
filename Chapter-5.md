@@ -358,7 +358,7 @@ Link de Trello:
 <table border="1">
   <tr>
     <th>Sprint</th>
-    <th colspan="7">Sprint 1</th>
+    <th colspan="7">Sprint 2</th>
   </tr>
   <tr>
     <th colspan="2">User Story</th>
