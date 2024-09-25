@@ -105,31 +105,55 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 
 <table>
   <tr>
-    <th>Criterio Especificos</th>
+    <th>Criterio Específicos</th>
     <th>Acciones realizadas</th>
     <th>Conclusiones</th>
   </tr>
   <tr>
-    <td rowspan="6"><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
-    <td><strong>Becerra Llempen, Fabiola Dayane</strong><br><strong>TB1</strong><br>Realicé las entrevistas del equipo para obtener y analizar la información del segmento “arrendatario” con el equipo de trabajo y avance el capitulo V.</td><br>
-    <td rowspan="6">El equipo demostró su capacidad para coordinarse eficazmente, aprender y aplicar nuevas tecnologías en el desarrollo de la Landing Page y Frontend Web Apps. Las entrevistas con usuarios, junto con la creación de user stories y el análisis de la problemática, fueron clave para abordar el proyecto de manera estructurada. A través de una comunicación constante y colaboración en cada sprint, lograron cumplir con los requisitos funcionales del product backlog, asegurando un despliegue exitoso del proyecto.</td>
+    <td rowspan="7"><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
+    <td><strong>Becerra Llempen, Fabiola Dayane</strong><br><strong>TB1</strong><br>Realicé las entrevistas del equipo para obtener y analizar la información del segmento “arrendatario” con el equipo de trabajo y avancé el capítulo V.</td>
+    <td rowspan="7">El equipo demostró su capacidad para coordinarse eficazmente, aprender y aplicar nuevas tecnologías en el desarrollo de la Landing Page y Frontend Web Apps. Las entrevistas con usuarios, junto con la creación de user stories y el análisis de la problemática, fueron clave para abordar el proyecto de manera estructurada. A través de una comunicación constante y colaboración en cada sprint, lograron cumplir con los requisitos funcionales del product backlog, asegurando un despliegue exitoso del proyecto.</td>
   </tr>
-  <tr><td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Nos coordinamos utilizando Google Meet para revisar el progreso y apoyarnos mutuamente. Implementé nuevas tecnologías para desarrollar el Landing Page, Frontend Web Apps, cumpliendo con los requisitos del product backlog y los objetivos del sprint.<br></td></tr>
-  <tr><td><strong>Belleza Tello, Paolo Eduardo</strong><br><strong>TB1</strong><br>Supimos como gestionar toda la primera parte del trabajo. Tuvimos varias charlas por meet para poder ir revisando puntos que no comprendiamos y solventar esas dudas. Asi cada quien pudo realizar su contribucion de la mejor manera.</td></tr>
-  <tr><td>Vilca Valverde, Fiorella Angela</strong><br><strong>TB1</strong><br>Realice una investigación sobre competidores que ofrecen servicios similares. Formule preguntas que seran de ayuda para las entrevistas y una análisis de entrevistas. Desarrollé User persona, User Task Matrix, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping y Ubiquitous Language.</td></tr>
-  <tr><td>Valera Garces, Samuel Ignacio</strong><br><strong>TB1</strong><br>Corrdinamos el desarrollo de las entrvistas, asi como las fechas de entrega de nuestras partes individuales, a lo que nos reunimos acto segudo para explicar nuestro desarrollo</td></tr>
-  <tr><td>6.</td></tr>
   <tr>
-    <td rowspan="6"><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
-    <td><strong>Becerra Llempen, Fabiola Dayane</strong><br><strong>TB1</strong><br>En la primera entrega, realice la documentación de las entrevistas a los arrendatarios. También aporte en el capitulo V.<br></td>
-    <td rowspan="6">El equipo trabajó de manera colaborativa para desarrollar una plataforma web, cumpliendo con los requisitos establecidos y asegurando que cada entregable y artefacto respetara la estructura solicitada. La comunicación, tanto oral como escrita, fue clara y objetiva, asegurando una correcta ortografía y gramática en cada interacción. Gracias a la planificación cuidadosa y la colaboración inclusiva, logramos cumplir con los objetivos del proyecto.</td>
+    <td><strong>Becerra Llempen, Fabiola Dayane</strong><br><strong>TP1</strong><br>Realizamos reuniones para poder compartir nuestras ideas de nuestro proyecto para poder realizar las mejoras y concluir el trabajo de manera efectiva y satisfactoria.</td>
   </tr>
-  <tr><td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Durante la primera entrega, coordiné con mi equipo para identificar problemáticas clave y aplicar un proceso de UX Design basado en Lean UX. Colaboramos en la creación de user stories que reflejaran los outcomes y assumptions del proyecto.<br></td></tr>
-  <tr><td><strong>Belleza Tello, Paolo Eduardo</strong><br><strong>TB1</strong><br>En esta primera entrega pude actualizarme con algunos conocimientos que mi grupo me brindo. Gracias a ello puedo realizar mi trabajo de manera eficiente. Las User Stories fueron un punto importante en nuestro proyecto ya que con eso teniamos un vistazo general de como seria nuestra propuesta de trabajo.</td></tr>
-  <tr><td>Valera Garces, Samuel Ignacio</strong><br><strong>TB1</strong><br>Realice el capitulo uno, incluyendo el desarrollo de la propuesta, Lean UX y la seleccion de los segmentos objetivo. Ademas desarrolle los ORgnaization Systems y contribui con la programacion de la landing page</td></tr>
-   <tr><td>Vilca Valverde, Fiorella Angela</strong><br><strong>TB1</strong><br>En esta primera entrega identifique los segmentos como arrendador y arrendatario, gracias a ello pude realizar user persona, empathy Mapping y As-is Scenario Mapping. Tambien adquiri nuevos conocimientos y logré terminar un avance del reporte. </td></tr>
-  <tr><td>6.</td></tr>
+  <tr>
+    <td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Nos coordinamos utilizando Google Meet para revisar el progreso y apoyarnos mutuamente. Implementé nuevas tecnologías para desarrollar el Landing Page, Frontend Web Apps, cumpliendo con los requisitos del product backlog y los objetivos del sprint.</td>
+  </tr>
+  <tr>
+    <td><strong>Belleza Tello, Paolo Eduardo</strong><br><strong>TB1</strong><br>Supimos cómo gestionar toda la primera parte del trabajo. Tuvimos varias charlas por Meet para poder ir revisando puntos que no comprendíamos y solventar esas dudas. Así cada quien pudo realizar su contribución de la mejor manera.</td>
+  </tr>
+  <tr>
+    <td><strong>Vilca Valverde, Fiorella Angela</strong><br><strong>TB1</strong><br>Realicé una investigación sobre competidores que ofrecen servicios similares. Formulé preguntas que serán de ayuda para las entrevistas y un análisis de entrevistas. Desarrollé User persona, User Task Matrix, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping, y Ubiquitous Language.</td>
+  </tr>
+  <tr>
+    <td><strong>Valera Garces, Samuel Ignacio</strong><br><strong>TB1</strong><br>Coordinamos el desarrollo de las entrevistas, así como las fechas de entrega de nuestras partes individuales, a lo que nos reunimos acto seguido para explicar nuestro desarrollo.</td>
+  </tr>
+  <tr>
+    <td>6.</td>
+  </tr>
+  <tr>
+    <td rowspan="7"><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
+    <td><strong>Becerra Llempen, Fabiola Dayane</strong><br><strong>TP1</strong><br>En la primera entrega, realicé la documentación de las entrevistas a los arrendatarios. También aporté en el capítulo V.<br>Realizamos reuniones para poder compartir nuestras ideas de nuestro proyecto para poder realizar las mejoras y concluir el trabajo de manera efectiva y satisfactoria.</td>
+    <td rowspan="7">El equipo trabajó de manera colaborativa para desarrollar una plataforma web, cumpliendo con los requisitos establecidos y asegurando que cada entregable y artefacto respetara la estructura solicitada. La comunicación, tanto oral como escrita, fue clara y objetiva, asegurando una correcta ortografía y gramática en cada interacción. Gracias a la planificación cuidadosa y la colaboración inclusiva, lograron cumplir con los objetivos del proyecto.</td>
+  </tr>
+  <tr>
+    <td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Durante la primera entrega, coordiné con mi equipo para identificar problemáticas clave y aplicar un proceso de UX Design basado en Lean UX. Colaboramos en la creación de user stories que reflejaran los outcomes y assumptions del proyecto.</td>
+  </tr>
+  <tr>
+    <td><strong>Belleza Tello, Paolo Eduardo</strong><br><strong>TB1</strong><br>En esta primera entrega pude actualizarme con algunos conocimientos que mi grupo me brindó. Gracias a ello pude realizar mi trabajo de manera eficiente. Las User Stories fueron un punto importante en nuestro proyecto ya que con eso teníamos un vistazo general de cómo sería nuestra propuesta de trabajo.</td>
+  </tr>
+  <tr>
+    <td><strong>Valera Garces, Samuel Ignacio</strong><br><strong>TB1</strong><br>Realicé el capítulo uno, incluyendo el desarrollo de la propuesta, Lean UX y la selección de los segmentos objetivo. Además, desarrollé los Organization Systems y contribuí con la programación de la landing page.</td>
+  </tr>
+  <tr>
+    <td><strong>Vilca Valverde, Fiorella Angela</strong><br><strong>TB1</strong><br>En esta primera entrega identifiqué los segmentos como arrendador y arrendatario, gracias a ello pude realizar user persona, empathy Mapping y As-is Scenario Mapping. También adquirí nuevos conocimientos y logré terminar un avance del reporte.</td>
+  </tr>
+  <tr>
+    <td>6.</td>
+  </tr>
 </table>
+
 
  
 ## Capítulo I: Introducción
