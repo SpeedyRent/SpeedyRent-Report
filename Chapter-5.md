@@ -462,7 +462,7 @@ Link de Trello:
 
 Para esta primera entrega, nuestro equipo a conseguido elaborar el fronted del proyecto "SpeedyRent". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
-**Sección de Registro Arrendadores**: Proceso de Registro Seguro para Arrendadores . ![alt text](Assets/.PNG)
+**Sección de Registro Arrendadores**: Proceso de Registro Seguro para Arrendadores . ![Registro_Arrendador](https://i.postimg.cc/wxs8rZj7/Whats-App-Image-2024-09-24-at-10-29-44-PM.jpg)
 **Sección de Registro Arrendatarios**: Proceso de Registro Seguro para Arrendatarios .<div> ![alt text](Assets/..PNG)
 **Sección de postear y eliminar vehiculo**: Postear y eliminar un vehiculo(Arrendador).<div> ![alt text](Assets/.PNG)
 **Sección de modificar parametros**:  Modificar parametros del vehiculo publicado(Arrendador). ![alt text](Assets/home3.PNG) 
