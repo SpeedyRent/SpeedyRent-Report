@@ -495,8 +495,8 @@ Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y
 
 Commits:
 
-![alt text](Assets/commits/.png)
+![alt text](Assets/commits.png)
 
 Analiticas de Colaboración:
 
-![alt text](Assets/timeline/.png)
+![alt text](Assets/timeline.png)
