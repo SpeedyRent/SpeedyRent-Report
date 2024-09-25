@@ -465,7 +465,7 @@ En este Sprint (Sprint 2), nuestro equipo a conseguido elaborar el fronted del p
 **Sección de Registro Arrendadores**: Proceso de Registro Seguro para Arrendadores . ![Registro_Arrendador](https://i.postimg.cc/wxs8rZj7/Whats-App-Image-2024-09-24-at-10-29-44-PM.jpg)
 **Sección de Registro Arrendatarios**: Proceso de Registro Seguro para Arrendatarios .<div> ![alt text](Assets/..PNG)
 **Sección de postear y eliminar vehiculo**: Postear y eliminar un vehiculo(Arrendador).<div> ![alt text](Assets/.PNG)
-**Sección de modificar parametros**:  Modificar parametros del vehiculo publicado(Arrendador). ![alt text](Assets/home3.PNG) 
+**Sección de modificar parametros**:  Modificar parametros del vehiculo publicado(Arrendador). ![alt text](Assets/.PNG) 
 **Sección de busqueda y filtro**: Como el usuario realiza la busqueda de vehiculo a rentar (Arrendatario).<div>![alt text](Assets/busqueda.png)
 **Sección de renta**:Rentar el vehiculo del arrendador (Arrendatario). <div>![alt text](Assets/.PNG)
 **Sección de aceptar y rechazar**: Aceptar o rechazar solicitud del arrendatario (Arrendador). <div>![alt text](Assets/.PNG)
