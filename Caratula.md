@@ -121,16 +121,16 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Nos coordinamos utilizando Google Meet para revisar el progreso y apoyarnos mutuamente. Implementé nuevas tecnologías para desarrollar el Landing Page, Frontend Web Apps, cumpliendo con los requisitos del product backlog y los objetivos del sprint.</td>
   </tr>
   <tr>
-    <td><strong>Belleza Tello, Paolo Eduardo</strong><br><strong>TB1</strong><br>Supimos cómo gestionar toda la primera parte del trabajo. Tuvimos varias charlas por Meet para poder ir revisando puntos que no comprendíamos y solventar esas dudas. Así cada quien pudo realizar su contribución de la mejor manera.</td>
+    <td><strong>Belleza Tello, Paolo Eduardo</strong><br><strong>TB</strong><br>Se coordino con el equipo para gestionar la divicion de componentes con la finalidad de apoyarnos mutuamente.<br><strong>TP</strong><br>Contribuí en la implementación de la funcionalidad de generar cards y redirigir dichas cards a la tabla en la cual puedo aceptar o rechazar la solicitud de un arrendatario.</td>
   </tr>
   <tr>
-    <td><strong>Vilca Valverde, Fiorella Angela</strong><br><strong>TB1</strong><br>Realicé una investigación sobre competidores que ofrecen servicios similares. Formulé preguntas que serán de ayuda para las entrevistas y un análisis de entrevistas. Desarrollé User persona, User Task Matrix, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping, y Ubiquitous Language.</td>
+    <td><strong>Vilca Valverde, Fiorella Angela</strong><br><strong>TB1</strong><br>Realicé una investigación sobre competidores que ofrecen servicios similares. Formulé preguntas que serán de ayuda para las entrevistas y un análisis de entrevistas. Desarrollé User persona, User Task Matrix, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping, y Ubiquitous Language.<br><strong>TP1</strong><br>Ayudé con el desarrollo de registro y login de owner con la información inicial necesaria que se requería.</td>
   </tr>
   <tr>
-    <td><strong>Valera Garces, Samuel Ignacio</strong><br><strong>TB1</strong><br>Coordinamos el desarrollo de las entrevistas, así como las fechas de entrega de nuestras partes individuales, a lo que nos reunimos acto seguido para explicar nuestro desarrollo.</td>
+    <td><strong>Valera Garces, Samuel Ignacio</strong><br><strong>TB1</strong><br>Coordinamos el desarrollo de las entrevistas, así como las fechas de entrega de nuestras partes individuales, y nos reunimos luego para explicar nuestros avances.<br><strong>TP1</strong><br>Contribuí en la implementación de la funcionalidad de agregar vehículos en la aplicación de alquiler. Durante este proceso, solucioné problemas de redirección y manejo de notificaciones utilizando PrimeVue Toast.</td>
   </tr>
   <tr>
-    <td>6.</td>
+    <td><strong>Galvan Cerron, George Aldo</strong><br><strong>TB1</strong><br>Realicé el capítulo 4, incluyendo diseño de la app web, fui parte del equipo de desarrollo de la landing page y apoye en la grabación de entrevistas para ambos usuarios<br><strong>TP1</strong><br> Contribuí con el desarrollo del componente de registro de renters.</td>
   </tr>
   <tr>
     <td rowspan="7"><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
@@ -141,10 +141,10 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Durante la primera entrega, coordiné con mi equipo para identificar problemáticas clave y aplicar un proceso de UX Design basado en Lean UX. Colaboramos en la creación de user stories que reflejaran los outcomes y assumptions del proyecto.</td>
   </tr>
   <tr>
-    <td><strong>Belleza Tello, Paolo Eduardo</strong><br><strong>TB1</strong><br>En esta primera entrega pude actualizarme con algunos conocimientos que mi grupo me brindó. Gracias a ello pude realizar mi trabajo de manera eficiente. Las User Stories fueron un punto importante en nuestro proyecto ya que con eso teníamos un vistazo general de cómo sería nuestra propuesta de trabajo.</td>
+    <td><strong>Belleza Tello, Paolo Eduardo</strong><br><strong>TB1</strong><br>En esta primera entrega pude actualizarme con algunos conocimientos que mi grupo me brindó. Gracias a ello pude realizar mi trabajo de manera eficiente. Las User Stories fueron un punto importante en nuestro proyecto ya que con eso teníamos un vistazo general de cómo sería nuestra propuesta de trabajo.<br><strong>TP1</strong><br>Belleza Tello, Paolo Eduardo</strong><br><strong>TP</strong><br>Realicé el capítulo tres junto con el componente de la Epic 09.</td>
   </tr>
   <tr>
-    <td><strong>Valera Garces, Samuel Ignacio</strong><br><strong>TB1</strong><br>Realicé el capítulo uno, incluyendo el desarrollo de la propuesta, Lean UX y la selección de los segmentos objetivo. Además, desarrollé los Organization Systems y contribuí con la programación de la landing page.</td>
+    <td><strong>Valera Garces, Samuel Ignacio</strong><br><strong>TB1</strong><br>Realicé el capítulo uno, incluyendo el desarrollo de la propuesta, Lean UX y la selección de los segmentos objetivo. Además, desarrollé los Organization Systems y contribuí con la programación de la landing page.<br><strong>TP1</strong><br>En la segunda entrega, participé en la implementación de la funcionalidad de agregar vehículos en la plataforma, asegurando que la redirección a la lista de vehículos se completara de manera correcta. También gestioné la integración del manejo de notificaciones con PrimeVue Toast.</td>
   </tr>
   <tr>
     <td><strong>Vilca Valverde, Fiorella Angela</strong><br><strong>TB1</strong><br>En esta primera entrega identifiqué los segmentos como arrendador y arrendatario, gracias a ello pude realizar user persona, empathy Mapping y As-is Scenario Mapping. También adquirí nuevos conocimientos y logré terminar un avance del reporte.</td>
