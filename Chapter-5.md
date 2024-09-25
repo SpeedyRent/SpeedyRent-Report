@@ -488,15 +488,15 @@ proyecto.
 Netlify: Una plataforma que automatiza la implementación de sitios web estáticos, lo que nos permitió alojar y desplegar nuestra
 aplicación web.
 
-![alt text](Assets/frontend.PNG) 
+![alt text](Assets/frontend.png) 
 ### 5.2.2.8 Team Collaboration Insights during Sprint
 
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 Commits:
 
-![alt text](Assets/commits/.PNG)
+![alt text](Assets/commits/.png)
 
 Analiticas de Colaboración:
 
-![alt text](Assets/timeline/.PNG)
+![alt text](Assets/timeline/.png)
