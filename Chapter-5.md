@@ -380,8 +380,8 @@ Link de Trello:
     <td>TS-05</td>
     <td>User Bounded Context </td>
     <td>Implementación la busqueda de vehiculos </td>
-    <td>3 Hours</td>
-    <td>GE</td>
+    <td>4 Hours</td>
+    <td>Fiorella Vilca</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -449,7 +449,7 @@ Link de Trello:
 ### 5.2.2.3 Development Evidence for Sprint Review
 | Repository         | Branch     | Commit Ids                                | Commit Message              | Commit Message Body          | Committed on (Date) |
 |--------------------|------------|------------------------------------------|-----------------------------|------------------------------|---------------------|
-| [SpeedyRent-Frontend](#) | develop  |  | feat/Search-Vehicle-filters |                              | 23/09/2024          |
+| [SpeedyRent-Frontend](#) | develop  | ae3b5f885949bf55cab9a0a8d8291622868ec714 | feat/Search-Vehicle-filters |                              | 23/09/2024          |
 |                    | develop  |  | add-edit-delete-vehicle         |                              | 23/09/2024          |
 |                    | develop  |   | feat/Send-request-tenant             |                              | 23/09/2024            |
 |                    | develop  |  | accept-reject-request-owner            |                              | 23/09/2024             |
