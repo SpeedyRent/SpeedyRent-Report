@@ -16,7 +16,7 @@
    
    Profesor: Naldo Reupo Musayon Gastulo
    
-   “Informe TB1"
+   “Informe TP1"
    
    Startup: SpeedyRent
    
