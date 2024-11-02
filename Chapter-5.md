@@ -573,6 +573,146 @@ Analiticas de Colaboración:
 
 #### 5.2.3.2 Sprint Backlog 3
 
+<table border="1">
+  <tr>
+    <th>Sprint</th>
+    <th colspan="7">Sprint 3</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimations (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do/In-Process/To-Review/Done)</th>
+  </tr>
+  <tr>
+    <td>EP-002</td>
+    <td>Cuenta de usuario Arrendador</td>
+    <td>EP-002</td>
+    <td>Creation of user account data</td>
+    <td>Implementación del backend</td>
+    <td>5 Hours</td>
+    <td>Samuel Valera</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>EP-003</td>
+    <td>Cuenta de usuario Arrendatario</td>
+    <td>EP-003</td>
+    <td>Creation of user account data</td>
+    <td>Implementación del backend</td>
+    <td>5 Hours</td>
+    <td>Samuel Valera</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>EP-002 y EP-003</td>
+    <td>Cuenta de usuario</td>
+    <td>EP-002 y EP-003</td>
+    <td>User account data</td>
+    <td>Implementación del backend</td>
+    <td>5 Hours</td>
+    <td>Galvan Cerron, George Aldo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>EP-006</td>
+    <td>Busqueda de vehiculo a rentar</td>
+    <td>EP-006</td>
+    <td>Filtros de busqueda</td>
+    <td>Implementación del backend</td>
+    <td>4 Hours</td>
+    <td>Fabiola Becerra</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>EP-007</td>
+    <td>Renta de vehiculo Pagina Principal</td>
+    <td>EP-006</td>
+    <td>Home Page de instrucciones para los usuarios</td>
+    <td>Implementación del backend</td>
+    <td>5 Hours</td>
+    <td>Fiorella Vilca</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>EP-012</td>
+    <td>Selección de Vehículo para Alquiler</td>
+    <td>TS-012</td>
+    <td>Complete and Submit Rental Application</td>
+    <td>Seleccionar un vehículo de la lista disponible y proceder con la solicitud de alquiler</td>
+    <td>24 Hours</td>
+    <td>Paolo Belleza Tello</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>EP-013</td>
+    <td>Confirmación del Alquiler</td>
+    <td>TS-013</td>
+    <td>Detailed View of the Rental Request</td>
+    <td>Ver el detalle de la solicitud de alquiler con un estado</td>
+    <td>24 Hours</td>
+    <td>Maria Fernanda Fernandez Alva</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>EP-014</td>
+    <td>Aceptación de Solicitud de Alquiler</td>
+    <td>TS-014</td>
+    <td>Application Review and Acceptance</td>
+    <td>Revisar y aceptar la solicitud de alquiler de un arrendatario para confirmar el alquiler del vehículo</td>
+    <td>24 Hours</td>
+    <td>Maria Fernanda Fernandez Alva</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>EP-015</td>
+    <td>Rechazo de Solicitud de Alquiler</td>
+    <td>TS-015</td>
+    <td>Application Review and Acceptance</td>
+    <td>Rechazar la solicitud de alquiler de un arrendatario si no estoy de acuerdo con los términos o condiciones</td>
+    <td>24 Hours</td>
+    <td>Maria Fernanda Fernandez Alva</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>EP-016</td>
+    <td>Generación del Contrato</td>
+    <td>TS-016</td>
+    <td>Automatic contract generation</td>
+    <td>Generar automáticamente un contrato legal cuando se acepte una solicitud de alquiler</td>
+    <td>48 Hours</td>
+    <td>Paolo Belleza Tello</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>EP-017</td>
+    <td>Firma Digital del Contrato</td>
+    <td>TS-017</td>
+    <td>Signing of the Contract by Both Parties</td>
+    <td>Firmar digitalmente el contrato de alquiler para formalizar el acuerdo y garantizar que ambas partes acepten los términos y condiciones.</td>
+    <td>48 Hours</td>
+    <td>Paolo Belleza Tello</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>EP-018</td>
+    <td>Selección del Método de Pago</td>
+    <td>TS-018</td>
+    <td>Viewing Payment Options</td>
+    <td>Seleccionar un método de pago</td>
+    <td>48 Hours</td>
+    <td>Maria Fernanda Fernandez Alva</td>
+    <td>Done</td>
+  </tr>
+</table>
 
 #### 5.2.3.3 Development Evidence for Sprint Review
 | Repository         | Branch     | Commit Ids                                | Commit Message              | Commit Message Body                     | Committed on (Date) |
