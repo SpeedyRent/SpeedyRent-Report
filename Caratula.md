@@ -150,7 +150,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Vilca Valverde, Fiorella Angela</strong><br><strong>TB1</strong><br>En esta primera entrega identifiqué los segmentos como arrendador y arrendatario, gracias a ello pude realizar user persona, empathy Mapping y As-is Scenario Mapping. También adquirí nuevos conocimientos y logré terminar un avance del reporte.</td>
   </tr>
   <tr>
-    <td>6.</td>
+    <td><strong>Galvan Cerron, George Aldo</strong><br><strong>TB1</strong><br>Fomenté un ambiente de trabajo inclusivo en el desarrollo del capítulo 4, donde cada miembro del equipo podía aportar ideas para el diseño de la app web y la landing page, asegurando que cada opinión fuera considerada en las revisiones.<br><strong>TP1</strong><br>Definí metas para la entrega del componente de registro de renters, tuvimos reuniones de revisión que nos permitieron ajustar y cumplir los objetivos establecidos en cada sprint.<br><strong>TB2</strong><br>Apoyé en la planificación y distribución de tareas en el desarrollo del user-account, coordinando tanto la visualización como la edición del perfil en frontend y backend para asegurar que los entregables estuvieran listos en el plazo acordado.</td>
+
   </tr>
 </table>
 
