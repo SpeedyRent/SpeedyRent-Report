@@ -989,7 +989,7 @@ Christian, de 27 años, es arrendador y tuvo una experiencia sin inconvenientes 
         </tr>
         <tr>
             <td>
-             <strong><a href="[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211e417_upc_edu_pe/EWVOMyZ3_xtPiEyUdPjjMsABKw1aN2Q_u7MS5OMEI2BeXA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2kdMvI](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211e417_upc_edu_pe/EZ0l4pI9AY9HoBbP4Elz_TEBCblfyULF9MEkY2BM-y_Ofw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kJvGFE)">URL Entrevista</a></strong>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211e417_upc_edu_pe/EWVOMyZ3_xtPiEyUdPjjMsABKw1aN2Q_u7MS5OMEI2BeXA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2kdMvI">URL Entrevista</a></strong>
             </td>
         </tr>        
 	</tbody>
