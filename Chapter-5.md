@@ -25,7 +25,7 @@ Se ha creado una organización en Github con los miembros del grupo y un reposit
 |--------------------------------- | --------------------------------- |
 |Organización|https://github.com/SpeedyRent|
 |Repositorio Landing Page| https://github.com/SpeedyRent/SpeedyRent-LandingPage |
-|Despliegue del Landing Page | https://speedyrent.github.io/LandingPage-SpeedyRent.github.io/ |
+|Despliegue del Landing Page | https://speedyrent.github.io/SpeedyRent-LandingPage/ |
 |Backend| https://github.com/SpeedyRent/SpeedyRent-Backend |
 |Frontend | https://github.com/SpeedyRent/SpeedyRent-Frontend |
 
