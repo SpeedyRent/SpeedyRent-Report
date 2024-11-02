@@ -724,8 +724,6 @@ Analiticas de Colaboración:
 | [SpeedyRent-Backend](https://github.com/SpeedyRent/SpeedyRent-Backend) | develop  | a92b9913e1cfa0096a762cafd9f180330b9d6b1b | feat/user-account-back      | Se creó la carpeta que tendrá el contenido estable | 10/02/2024          |
 | [SpeedyRent-Backend](https://github.com/SpeedyRent/SpeedyRent-Backend) | develop  | c97fab98cedd05983491f6dcd9ef98607f7023d5 | feat/homepage-community-back| Se creó la carpeta que tendrá el contenido estable | 10/02/2024          |
 
-#### 5.2.3.4 Testing Suite Evidence for Sprint Review
-
 
 #### 5.2.3.5 Execution Evidence for Sprint Review
 ![alt text](Assets/descriptionvehicles.png)
@@ -752,7 +750,7 @@ Analiticas de Colaboración:
 ![alt text](Assets/21.jpg)
 
 #### 5.2.3.6 Services Documentarion Evidence for Sprint Review
-
+En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el Backend estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
 
 #### 5.2.3.7 Software Deployment Evidence for Sprint Review
 
