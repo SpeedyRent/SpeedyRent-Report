@@ -885,7 +885,7 @@ Lucía expresa que espera recibir solicitudes de alquiler de manera rápida, ide
         </tr>
         <tr>
             <td>
-             <strong><a href="[https://upcedupe-my.sharepoint.com/personal/u20211e417_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211e417%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista%5Farrendatario%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ecf7cb133%2D8431%2D431d%2D8b1b%2Dc5e5b36e2a25](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211e417_upc_edu_pe/EbEZc7j-GONClMuH1kNQwTIBRQCboQvtvSXZt73DGkCv-Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6TwTkZ)">URL Entrevista</a></strong>
+             <strong><a href="[[https://upcedupe-my.sharepoint.com/personal/u20211e417_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211e417%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista%5Farrendatario%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ecf7cb133%2D8431%2D431d%2D8b1b%2Dc5e5b36e2a25](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211e417_upc_edu_pe/EbEZc7j-GONClMuH1kNQwTIBRQCboQvtvSXZt73DGkCv-Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6TwTkZ)](https://upcedupe-my.sharepoint.com/personal/u20211e417_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211e417%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Darredantario%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea51cf1d7%2Da42b%2D4e2c%2D90a6%2D737e287f0b93)">URL Entrevista</a></strong>
             </td>
         </tr>        
 	</tbody>
@@ -901,7 +901,7 @@ Carla, de 26 años, es arrendataria y tuvo una experiencia positiva probando nue
 <table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
-			<td colspan="1" rowspan="6"><img src="[Assets/Chapter-2/Entrevista_2.jpeg](https://i.postimg.cc/5Nm8Jyvp/Whats-App-Image-2024-11-02-at-3-44-26-PM.jpg)" alt="" width="575" height="250"></td>
+			<td colspan="1" rowspan="6"><img src="https://i.postimg.cc/5Nm8Jyvp/Whats-App-Image-2024-11-02-at-3-44-26-PM.jpg" alt="" width="575" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
             <br>
             </strong> Cristian
