@@ -791,7 +791,7 @@ Analiticas de Colaboración:
 <table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
-			<td colspan="1" rowspan="6"><img src="[Assets/Chapter-2/Entrevista_1.jpeg](https://i.postimg.cc/3xv4Rw0P/2.jpg)" alt="" width="575" height="250"></td>
+			<td colspan="1" rowspan="6"><img src="https://i.postimg.cc/3xv4Rw0P/2.jpg" alt="" width="575" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
             <br>
             </strong> Lucia
