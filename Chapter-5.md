@@ -575,7 +575,12 @@ Analiticas de Colaboración:
 
 
 #### 5.2.3.3 Development Evidence for Sprint Review
-
+| Repository         | Branch     | Commit Ids                                | Commit Message              | Commit Message Body                     | Committed on (Date) |
+|--------------------|------------|------------------------------------------|-----------------------------|-----------------------------------------|---------------------|
+| [SpeedyRent-Backend](https://github.com/SpeedyRent/SpeedyRent-Backend) | develop  | ae3b5f885949bf55cab9a0a8d8291622868ec714 | feat/login-register-back    | Se creó la carpeta que tendrá el contenido estable | 10/02/2024          |
+| [SpeedyRent-Backend](https://github.com/SpeedyRent/SpeedyRent-Backend) | develop  | ce9e232bc95b69682aca66137888559e5f3267f7 | feat/homepage-research-back | Se creó la carpeta que tendrá el contenido estable | 10/02/2024          |
+| [SpeedyRent-Backend](https://github.com/SpeedyRent/SpeedyRent-Backend) | develop  | a92b9913e1cfa0096a762cafd9f180330b9d6b1b | feat/user-account-back      | Se creó la carpeta que tendrá el contenido estable | 10/02/2024          |
+| [SpeedyRent-Backend](https://github.com/SpeedyRent/SpeedyRent-Backend) | develop  | c97fab98cedd05983491f6dcd9ef98607f7023d5 | feat/homepage-community-back| Se creó la carpeta que tendrá el contenido estable | 10/02/2024          |
 
 #### 5.2.3.4 Testing Suite Evidence for Sprint Review
 
@@ -639,6 +644,271 @@ Analiticas de Colaboración:
 
 ### 5.3.2 Registro de Entrevistas
 
+**Segmento Objetivo 2: Arrendador**
+
+*Entrevistado 1*
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="[Assets/Chapter-2/Entrevista_1.jpeg](https://i.postimg.cc/3xv4Rw0P/2.jpg)" alt="" width="575" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
+            <br>
+            </strong> Lucia
+            <br> Fernadez
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad:<br></strong> 24 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Distrito:</strong> 
+            <br>Estados Unidos
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador:</strong>
+            <br>Samuel Ignacio
+            <br>Valera Garcés
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timming: </strong>
+            <br>0:03<br>
+            <strong>Duración: </strong>
+            <br>04:26
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EUVXUgrZ9y9MsBMIHeOQKPcB_XURnMBKetjKihTAeKO-ag?e=KhLX3s&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211e417_upc_edu_pe/EXrqi1swYKxGoiaqfSsc_SwB3tjCwj2TlX6pSH0COj9mYA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VakryF)">URL Entrevista</a></strong>
+            </td>
+        </tr>        
+	</tbody>
+</table>
+
+Resumen: 
+Lucía Fernández es una joven de 24 años que estaba dispuesta a alquilar su vehículo en una plataforma web. Durante la entrevista, ella explora la funcionalidad de la página, que incluye un proceso sencillo de login, la publicación de vehículos, búsqueda y solicitud de alquiler. Lucía considera el proceso intuitivo y fácil de navegar, destacando que cualquiera podría usarlo sin mayores complicaciones.
+
+Lucía aprecia que la plataforma permita ingresar información detallada del vehículo, como la marca, modelo, año, precio e imagen, ya que lo considera importante para la seguridad y claridad de las publicaciones. No encuentra aspectos que necesiten explicación adicional y destaca los filtros de búsqueda por marca, modelo, año y reputación como herramientas útiles para que los usuarios encuentren lo que buscan rápidamente.
+
+Sin embargo, Lucía sugiere que le gustaría contar con información adicional, como los antecedentes penales de los arrendatarios, antes de aceptar o rechazar una solicitud. Además, considera importante la comunicación directa con el arrendatario durante el proceso de alquiler. En cuanto a los términos y condiciones de uso, que incluyen la condición del vehículo, seguro y certificado de mantenimiento, los encuentra claros y suficientes, sin necesidad de modificaciones.
+
+Lucía expresa que espera recibir solicitudes de alquiler de manera rápida, idealmente de forma instantánea, y se muestra satisfecha con la transparencia y seguridad que ofrece el proceso de publicación y verificación en la plataforma.
+
+**Segmento Objetivo 1: Arrendatario**
+
+*Entrevistado 2*
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="[Assets/Chapter-2/Entrevista_2.jpeg](https://i.postimg.cc/sDz0KBsJ/1.jpg)" alt="" width="575" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
+            <br>
+            </strong> Carla Paola
+            <br> Taype
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad:<br></strong> 26 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Distrito:</strong> 
+            <br>Jesús María
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador:</strong>
+            <br>George Aldo
+            <br>Galvan Cerron
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timming: </strong>
+            <br>0:08<br>
+            <strong>Duración: </strong>
+            <br>2:19
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="[https://upcedupe-my.sharepoint.com/personal/u20211e417_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211e417%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista%5Farrendatario%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ecf7cb133%2D8431%2D431d%2D8b1b%2Dc5e5b36e2a25](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211e417_upc_edu_pe/EbEZc7j-GONClMuH1kNQwTIBRQCboQvtvSXZt73DGkCv-Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6TwTkZ)">URL Entrevista</a></strong>
+            </td>
+        </tr>        
+	</tbody>
+</table>
+
+Resumen: 
+Carla, de 26 años, es arrendataria y tuvo una experiencia positiva probando nuestra app web. Mencionó que la interfaz es intuitiva y los filtros son adecuados para una búsqueda eficaz. En general, cree que la plataforma ya incluye las funciones necesarias para el arrendatario, por lo que no considera urgente añadir más características, aunque una mejora en la velocidad de carga sería bienvenida.
+
+**Segmento Objetivo 2: Arrendador**
+
+*Entrevistado 3*
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="[Assets/Chapter-2/Entrevista_2.jpeg](https://i.postimg.cc/5Nm8Jyvp/Whats-App-Image-2024-11-02-at-3-44-26-PM.jpg)" alt="" width="575" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
+            <br>
+            </strong> Cristian
+            <br>
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad:<br></strong> 27 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Distrito:</strong> 
+            <br>Jesús María
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador:</strong>
+            <br>George Aldo
+            <br>Galvan Cerron
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timming: </strong>
+            <br>0:08<br>
+            <strong>Duración: </strong>
+            <br>3:29
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211e417_upc_edu_pe/EW2HUeoI6rRKrhpMnyINk2cBWN9lo-ZP6dhbTAsAveQicQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gyOQjp">URL Entrevista</a></strong>
+            </td>
+        </tr>        
+	</tbody>
+</table>
+
+Resumen: 
+Christian, de 27 años, es arrendador y tuvo una experiencia sin inconvenientes al probar la app. Sugiere simplificar el proceso de registro inicial, permitiendo que se complete la información detallada más adelante para la verificación de usuario. También recomendó agregar un filtro de colores para los autos. A pesar de estas observaciones, se siente satisfecho y cómodo usando la plataforma.
+
+**Segmento Objetivo 1: Arrendatarios**
+
+*Entrevistado 4*
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="[Assets/Chapter-2/Entrevista_4.jpeg](https://i.postimg.cc/0jtvP7C7/3.jpg)" alt="" width="575" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
+            <br>
+            </strong> Maria Yesenia
+            <br> Alva Leyva
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad:<br></strong> 45 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Distrito:</strong> 
+            <br>Los Olivos
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador:</strong>
+            <br>Maria Fernanda
+            <br>Fernandez Alva
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timming: </strong>
+            <br>0:06<br>
+            <strong>Duración: </strong>
+            <br>7:08
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211e417_upc_edu_pe/EWVOMyZ3_xtPiEyUdPjjMsABKw1aN2Q_u7MS5OMEI2BeXA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2kdMvI](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211e417_upc_edu_pe/EZ0l4pI9AY9HoBbP4Elz_TEBCblfyULF9MEkY2BM-y_Ofw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kJvGFE)">URL Entrevista</a></strong>
+            </td>
+        </tr>        
+	</tbody>
+</table>
+
+Resumen: 
+La señora Yesenia pensaba que adquirir un auto requeriría mucho papeleo y que el proceso de registro y solicitud sería complicado y tardaría meses. Sin embargo, al conocer Speedy Rent, quedó fascinada. Aunque no es muy experta en tecnología, le encantó poder buscar el auto de sus sueños fácilmente gracias a los filtros de búsqueda. También valoró el nivel de detalle de la información sobre los vehículos y mencionó que le gustaría poder visualizar la ubicación del auto para saber si está cerca o lejos para recogerlo. Además, apreció que haya restricciones claras en la plataforma.
+
+**Segmento Objetivo 2: Arrendador**
+
+*Entrevistado 5*
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="[Assets/Chapter-2/Entrevista_5.jpeg](https://i.postimg.cc/137KwXvM/4.jpg)" alt="" width="575" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
+            <br>
+            </strong> Jessica 
+            <br> Jaramillo
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad:<br></strong> 24 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Distrito:</strong> 
+            <br>Comas
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador:</strong>
+            <br>Maria Fernanda 
+            <br>Fernandez Alva
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timming: </strong>
+            <br>0:02<br>
+            <strong>Duración: </strong>
+            <br>8:08
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211e417_upc_edu_pe/EbXFCqDplwJJlxdY9NiKFEEBov_4C0f2Or38q9z38Ere5g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VySt1h](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211e417_upc_edu_pe/EfQ9BHCdIy9IqfE4gV4Dc4sB9o8uAN206SrK1HaEq6Ns0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=h8Z1bf)">URL Entrevista</a></strong>
+            </td>
+        </tr>        
+	</tbody>
+</table>
+
+Resumen: 
+Jessica expresó que le encanta el estilo de la página web, describiéndolo como limpio y fácil de entender. Al principio, tenía dudas sobre publicar su auto en nuestra plataforma debido a posibles riesgos, como el robo del vehículo. Sin embargo, le agradó la idea de incluir términos y condiciones al registrar su auto, lo cual la hace sentir más cómoda y segura. También valoró el hecho de que el usuario recoja el vehículo en persona y la posibilidad de tener un contrato físico, ya que le brinda respaldo en caso de cualquier inconveniente con el vehículo.
 
 ### 5.3.3 Evaluaciones según heurísticas
 
