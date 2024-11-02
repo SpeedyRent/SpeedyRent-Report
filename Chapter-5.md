@@ -1052,6 +1052,17 @@ Jessica expresó que le encanta el estilo de la página web, describiéndolo com
 
 ### 5.3.3 Evaluaciones según heurísticas
 
+DESCRIPCIÓN DE PROBLEMAS:
+PROBLEMA #1:
+Problema con la eliminación de productos de “mis filtros” ya que si se borran pero
+cuando actualizas la página
+Severidad: 3
+Heurística violada: Usability: Usabilidad y control del usuario
+Problema:
+Al momento de eliminar el filtro seleccionado, visualmente se
+queda pero cuando se actualiza la página, ya se ve que se ha borrado por completo por
+lo que ese es un problema para los usuarios que no saben qué hacer en esas
+situaciones.
 
 ## 5.4 Video About-the-Product
 En la siguiente sección se presenta el producto Speedy Rent, destacando las principales funcionalidades de la plataforma, como la creación de un vehículo, la búsqueda de vehículos disponibles, la solicitud para alquilar un vehículo y las notificaciones que recibe el usuario cuando alguien solicita uno de sus vehículos.
