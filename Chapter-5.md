@@ -646,7 +646,7 @@ Analiticas de Colaboración:
 ## 5.4 Video About-the-Product
 En la siguiente sección se presenta el producto Speedy Rent, destacando las principales funcionalidades de la plataforma, como la creación de un vehículo, la búsqueda de vehículos disponibles, la solicitud para alquilar un vehículo y las notificaciones que recibe el usuario cuando alguien solicita uno de sus vehículos.
 
-<br><p align="center"><img src="Assets/portada.png" alt="PortadaSpeedyRent" /></p>
+<p align="center"><img src="Assets/portada.png" alt="PortadaSpeedyRent" /></p>
 
 Enlace del video: https://youtu.be/cQV0Apcvf48
 
