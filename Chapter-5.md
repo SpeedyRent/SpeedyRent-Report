@@ -885,7 +885,7 @@ Lucía expresa que espera recibir solicitudes de alquiler de manera rápida, ide
         </tr>
         <tr>
             <td>
-             <strong><a href="[[https://upcedupe-my.sharepoint.com/personal/u20211e417_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211e417%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista%5Farrendatario%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ecf7cb133%2D8431%2D431d%2D8b1b%2Dc5e5b36e2a25](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211e417_upc_edu_pe/EbEZc7j-GONClMuH1kNQwTIBRQCboQvtvSXZt73DGkCv-Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6TwTkZ)](https://upcedupe-my.sharepoint.com/personal/u20211e417_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211e417%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Darredantario%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea51cf1d7%2Da42b%2D4e2c%2D90a6%2D737e287f0b93)">URL Entrevista</a></strong>
+             <strong><a href="https://upcedupe-my.sharepoint.com/personal/u20211e417_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211e417%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista%5Farrendatario%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ecf7cb133%2D8431%2D431d%2D8b1b%2Dc5e5b36e2a25">URL Entrevista</a></strong>
             </td>
         </tr>        
 	</tbody>
@@ -1041,7 +1041,7 @@ La señora Yesenia pensaba que adquirir un auto requeriría mucho papeleo y que 
         </tr>
         <tr>
             <td>
-             <strong><a href="[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211e417_upc_edu_pe/EbXFCqDplwJJlxdY9NiKFEEBov_4C0f2Or38q9z38Ere5g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VySt1h](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211e417_upc_edu_pe/EfQ9BHCdIy9IqfE4gV4Dc4sB9o8uAN206SrK1HaEq6Ns0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=h8Z1bf)">URL Entrevista</a></strong>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211e417_upc_edu_pe/EbXFCqDplwJJlxdY9NiKFEEBov_4C0f2Or38q9z38Ere5g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VySt1h">URL Entrevista</a></strong>
             </td>
         </tr>        
 	</tbody>
