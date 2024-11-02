@@ -577,14 +577,6 @@ Analiticas de Colaboración:
 #### 5.2.3.3 Development Evidence for Sprint Review
 
 
-| Repository         | Branch     | Commit Ids                                | Commit Message              | Commit Message Body                     | Committed on (Date) |
-|--------------------|------------|------------------------------------------|-----------------------------|-----------------------------------------|---------------------|
-| [SpeedyRent-Backend](https://github.com/SpeedyRent/SpeedyRent-Backend) | develop  | ae3b5f885949bf55cab9a0a8d8291622868ec714 | feat/login-register-back    | Se creó la carpeta que tendrá el contenido estable | 10/02/2024          |
-| [SpeedyRent-Backend](https://github.com/SpeedyRent/SpeedyRent-Backend) | develop  | ce9e232bc95b69682aca66137888559e5f3267f7 | feat/homepage-research-back | Se creó la carpeta que tendrá el contenido estable | 10/02/2024          |
-| [SpeedyRent-Backend](https://github.com/SpeedyRent/SpeedyRent-Backend) | develop  | a92b9913e1cfa0096a762cafd9f180330b9d6b1b | feat/user-account-back      | Se creó la carpeta que tendrá el contenido estable | 10/02/2024          |
-| [SpeedyRent-Backend](https://github.com/SpeedyRent/SpeedyRent-Backend) | develop  | c97fab98cedd05983491f6dcd9ef98607f7023d5 | feat/homepage-community-back| Se creó la carpeta que tendrá el contenido estable | 10/02/2024          |
-
-
 #### 5.2.3.4 Testing Suite Evidence for Sprint Review
 
 
@@ -652,3 +644,9 @@ Analiticas de Colaboración:
 
 
 ## 5.4 Video About-the-Product
+En la siguiente sección se presenta el producto Speedy Rent, destacando las principales funcionalidades de la plataforma, como la creación de un vehículo, la búsqueda de vehículos disponibles, la solicitud para alquilar un vehículo y las notificaciones que recibe el usuario cuando alguien solicita uno de sus vehículos.
+
+![Portada de Speedy Rent](assets/portada.png )
+
+Enlace del video: https://youtu.be/cQV0Apcvf48
+Duración del video: 11:46
