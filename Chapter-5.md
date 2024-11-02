@@ -733,23 +733,23 @@ Analiticas de Colaboración:
 
 ![alt text](Assets/database.png)
 
-![alt text](Assets/12.png)
-![alt text](Assets/13.png)
+![alt text](Assets/12.jpg)
+![alt text](Assets/13.jpg)
 
-![alt text](Assets/14.png)
+![alt text](Assets/14.jpg)
 
-![alt text](Assets/15.png)
+![alt text](Assets/15.jpg)
 
-![alt text](Assets/16.png)
+![alt text](Assets/16.jpg)
 
-![alt text](Assets/17.png)
+![alt text](Assets/17.jpg)
 
-![alt text](Assets/18.png)
-![alt text](Assets/19.png)
+![alt text](Assets/18.jpg)
+![alt text](Assets/19.jpg)
 
-![alt text](Assets/20.png)
+![alt text](Assets/20.jpg)
 
-![alt text](Assets/21.png)
+![alt text](Assets/21.jpg)
 
 #### 5.2.3.6 Services Documentarion Evidence for Sprint Review
 
