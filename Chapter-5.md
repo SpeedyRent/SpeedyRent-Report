@@ -501,6 +501,29 @@ Commits:
 Analiticas de Colaboración:
 
 ![alt text](Assets/timeline.png)
+![alt text](Assets/descriptionvehicles.png)
+![alt text](Assets/vehicles.png)
+
+![alt text](Assets/database.png)
+
+![alt text](Assets/12.png)
+![alt text](Assets/13.png)
+
+![alt text](Assets/14.png)
+
+![alt text](Assets/15.png)
+
+![alt text](Assets/16.png)
+
+![alt text](Assets/17.png)
+
+![alt text](Assets/18.png)
+![alt text](Assets/19.png)
+
+![alt text](Assets/20.png)
+
+![alt text](Assets/21.png)
+
 
 ### 5.2.3 Sprint 3
 
