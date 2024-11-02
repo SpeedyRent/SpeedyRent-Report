@@ -849,7 +849,7 @@ Lucía expresa que espera recibir solicitudes de alquiler de manera rápida, ide
 <table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
-			<td colspan="1" rowspan="6"><img src="[Assets/Chapter-2/Entrevista_2.jpeg](https://i.postimg.cc/sDz0KBsJ/1.jpg)" alt="" width="575" height="250"></td>
+			<td colspan="1" rowspan="6"><img src="https://i.postimg.cc/sDz0KBsJ/1.jpg" alt="" width="575" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
             <br>
             </strong> Carla Paola
@@ -953,7 +953,7 @@ Christian, de 27 años, es arrendador y tuvo una experiencia sin inconvenientes 
 <table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
-			<td colspan="1" rowspan="6"><img src="[Assets/Chapter-2/Entrevista_4.jpeg](https://i.postimg.cc/0jtvP7C7/3.jpg)" alt="" width="575" height="250"></td>
+			<td colspan="1" rowspan="6"><img src="https://i.postimg.cc/0jtvP7C7/3.jpg" alt="" width="575" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
             <br>
             </strong> Maria Yesenia
@@ -1005,7 +1005,7 @@ La señora Yesenia pensaba que adquirir un auto requeriría mucho papeleo y que 
 <table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
-			<td colspan="1" rowspan="6"><img src="[Assets/Chapter-2/Entrevista_5.jpeg](https://i.postimg.cc/137KwXvM/4.jpg)" alt="" width="575" height="250"></td>
+			<td colspan="1" rowspan="6"><img src="https://i.postimg.cc/137KwXvM/4.jpg" alt="" width="575" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
             <br>
             </strong> Jessica 
