@@ -504,9 +504,72 @@ Analiticas de Colaboración:
 
 ### 5.2.3 Sprint 3
 
-
 #### 5.2.3.1 Sprint Planning 3
 
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-11-1</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">17:30 horas (GMT)-5</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Google Meet</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Valera Garces, Samual Ignacio</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">
+    Valera Garces, Samual Ignacio<br>
+	  Becerra Llempen, Fabiola Dayane<br>
+	  Fernandez Alva, Maria Fernanda<br>
+	  Belleza Tello, Paolo Eduardo<br>
+	  Galván Cerrón, George Aldo<br>
+	  Vilca Valverde, Fiorella Angela</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Review Summary</td>
+    <td colspan="8">El equipo se organizó para elaborar y completar las últimas historias de usuario y abordar las observaciones del Trabajo Parcial en la fecha acordada, contando con la participación de dos integrantes. El mayor desafío fue realizar el cambio en el archivo db.json.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Retrospective Summary</td>
+    <td colspan="8">Se identificaron mejoras en la comunicación interna y en el proceso de gestión de tareas. Se propuso un esquema más claro para asignar tareas de frontend y backend y asegurar que cada integrante entienda las dependencias.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Goal</td>
+    <td colspan="8">Avanzar en la implementación del backend en un 50%, incluyendo funcionalidades clave como el register, gestion de usuarios y configuracion de API</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Velocity</td>
+    <td colspan="8">44 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">
+    US-012    Selección de Vehículo para Alquiler (8 puntos)<br>
+    US-013    Confirmación del Alquiler  (5 puntos)<br>
+    US-014    Aceptación de Solicitud de Alquiler (5 puntos)<br>
+    US-015    Rechazo de Solicitud de Alquiler (5 puntos)<br>
+    US-016    Generación del Contrato (8 puntos)<br>
+    US-017    Firma Digital del Contrato (8 puntos)<br>
+    US-018    Selección del Método de Pago (5 puntos)</td>
+</tr>
+</table>
 
 #### 5.2.3.2 Sprint Backlog 3
 
