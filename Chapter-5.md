@@ -1093,3 +1093,7 @@ En la siguiente sección se presenta el producto Speedy Rent, destacando las pri
 Enlace del video: https://youtu.be/qRTJhe2Z6CY
 
 Duración del video: 11:46
+
+Video About the team: https://youtu.be/Izu9ZLOQju4
+
+Video de exposición: https://youtu.be/EQIwfmtK4wY
