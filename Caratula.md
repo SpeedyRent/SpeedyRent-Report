@@ -116,7 +116,9 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   </tr>
   <tr>
     <td><strong>Becerra Llempen, Fabiola Dayane</strong><br><strong>TP1</strong><br>Realizamos reuniones para poder compartir nuestras ideas de nuestro proyecto para poder realizar las mejoras y concluir el trabajo de manera efectiva y satisfactoria.</td>
-  </tr>
+
+    <td><strong>Becerra Llempen, Fabiola Dayane</strong><br><strong>TB2</strong><br>Nos organizamos reuniendonos para poder compartir nuestras ideas de nuestro proyecto para poder realizar las mejoras y concluir el trabajo de manera efectiva y satisfactoria.</td>
+</tr>
   <tr>
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Nos coordinamos utilizando Google Meet para revisar el progreso y apoyarnos mutuamente. Implementé nuevas tecnologías para desarrollar el Landing Page, Frontend Web Apps, cumpliendo con los requisitos del product backlog y los objetivos del sprint.<br><strong>TP</strong><br>Elaboré el capitulo 5 y la user storie de notificaciones, donde se establece la comunicación tanto con el tenant como con el owner, y la aceptación de dicha notificación por parte del tenant.<br><strong>TB3</strong><br>Elaboré la página de inicio, incluyendo el botón de cambio de idioma (En/Es) y el perfil de usuario, además de la comunicación entre los componentes principales y el archivo db.json.</td>
   </tr>
@@ -135,6 +137,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   <tr>
     <td rowspan="7"><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
     <td><strong>Becerra Llempen, Fabiola Dayane</strong><br><strong>TP1</strong><br>En la primera entrega, realicé la documentación de las entrevistas a los arrendatarios. También aporté en el capítulo V.<br>Realizamos reuniones para poder compartir nuestras ideas de nuestro proyecto para poder realizar las mejoras y concluir el trabajo de manera efectiva y satisfactoria.</td>
+      
     <td rowspan="7">El equipo trabajó de manera colaborativa para desarrollar una plataforma web, cumpliendo con los requisitos establecidos y asegurando que cada entregable y artefacto respetara la estructura solicitada. La comunicación, tanto oral como escrita, fue clara y objetiva, asegurando una correcta ortografía y gramática en cada interacción. Gracias a la planificación cuidadosa y la colaboración inclusiva, lograron cumplir con los objetivos del proyecto.</td>
   </tr>
   <tr>
