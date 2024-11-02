@@ -648,6 +648,6 @@ En la siguiente sección se presenta el producto Speedy Rent, destacando las pri
 
 <p align="center"><img src="Assets/portada.png" alt="PortadaSpeedyRent" /></p>
 
-Enlace del video: https://youtu.be/cQV0Apcvf48
+Enlace del video: https://youtu.be/qRTJhe2Z6CY
 
 Duración del video: 11:46
