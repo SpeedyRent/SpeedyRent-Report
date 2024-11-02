@@ -597,6 +597,45 @@ Analiticas de Colaboración:
 
 ### 5.3.1 Diseño de Entrevistas
 
+* Segmento objetivo 1: Arrendatarios <br>
+  Son aquellas personas que desean alquilar un vehículo por un período específico.<br>
+    * Preguntas generales: <br> 
+      * **¿Cuál es su nombre completo?** <br>
+      * **¿Cuántos años tienes?** <br>
+      * **¿En que distrito reside?** <br>
+      * **¿A qué se dedicas?** <br>
+
+   * Preguntas luego de mostrarle la plataforma desplegada: <br>
+     * **¿Fue fácil para ti encontrar un auto que se ajustara a tus necesidades usando los filtros de búsqueda?** <br>
+     * **¿Qué filtros adicionales o mejoras consideras que podrían implementarse?** <br>
+     * **¿Qué tan útil te parece la información de los autos publicada en la aplicación?** <br>
+     * **¿Hay detalles adicionales que te gustaría ver en la descripción de los autos?** <br>
+     * **¿Cómo te gustaría que se manejara la comunicación con el arrendador?** <br>
+     * **¿Prefieres tener algún sistema de mensajería o contacto directo?** <br>
+     * **¿Consideras claras las notificaciones de estado (pendiente, aceptado, rechazado) al solicitar alquilar un auto?** <br>
+     * **¿Qué tan clara te pareció la sección de términos y condiciones antes de solicitar el alquiler?** <br>
+     * **¿Sientes que cubre todas las expectativas y protecciones necesarias?** <br>
+     * **¿Crees que el acuerdo legal al alquilar un auto contiene toda la información necesaria para sentirte seguro?** <br>
+
+* Segmento objetivo 2: Arrendadores <br>
+  Son aquellas personas que poseen un vehículo y lo pone a disposición de un arrendatario a cambio de un pago. <br>
+    * Preguntas generales: <br> 
+      * **¿Cuál es su nombre completo?** <br>
+      * **¿Cuántos años tienes?** <br>
+      * **¿En que distrito reside?** <br>
+      * **¿A qué se dedicas?** <br>
+
+  * Preguntas luego de mostrarle la plataforma desplegada: <br>
+     * **¿Qué tan fácil fue para ti completar el proceso de publicación de tu auto?** <br>
+     * **¿Qué aspectos específicos consideras que podrían simplificarse o explicarse mejor?** <br>
+     * **¿Qué información adicional sobre el arrendatario te gustaría tener antes de aceptar o rechazar una solicitud de alquiler?** <br>
+     * **¿Cómo evalúas el proceso de configuración de las características y detalles de tu auto?** <br>
+     * **¿Te parece que es suficiente la información que puedes brindar sobre el auto? ¿Qué mejorarías?** <br>
+     * **¿Cuánto tiempo esperas recibir notificaciones sobre las solicitudes de alquiler?** <br>
+     * **¿Qué tan claras te parecen las notificaciones de estado (pendiente, aceptado, rechazado)?** <br>
+     * **¿Cómo evalúas la claridad de los términos y condiciones al momento de subir un auto?** <br>
+     * **¿Hay algo que te gustaría agregar o modificar en los términos?** <br>
+     * **¿Cuáles son tus expectativas para la comunicación o interacción con el arrendatario durante el proceso de alquiler?** <br>
 
 ### 5.3.2 Registro de Entrevistas
 
