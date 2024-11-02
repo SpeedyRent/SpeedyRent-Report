@@ -130,7 +130,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Valera Garces, Samuel Ignacio</strong><br><strong>TB1</strong><br>Coordinamos el desarrollo de las entrevistas, así como las fechas de entrega de nuestras partes individuales, y nos reunimos luego para explicar nuestros avances.<br><strong>TP1</strong><br>Contribuí en la implementación de la funcionalidad de agregar vehículos en la aplicación de alquiler. Durante este proceso, solucioné problemas de redirección y manejo de notificaciones utilizando PrimeVue Toast.</td>
   </tr>
   <tr>
-    <td><strong>Galvan Cerron, George Aldo</strong><br><strong>TB1</strong><br>Realicé el capítulo 4, incluyendo diseño de la app web, fui parte del equipo de desarrollo de la landing page y apoye en la grabación de entrevistas para ambos usuarios<br><strong>TP1</strong><br> Contribuí con el desarrollo del componente de registro de renters.</td>
+    <td><strong>Galvan Cerron, George Aldo</strong><br><strong>TB1</strong><br>Realicé el capítulo 4, incluyendo diseño de la app web, fui parte del equipo de desarrollo de la landing page y apoye en la grabación de entrevistas para ambos usuarios<br><strong>TP1</strong><br> Contribuí con el desarrollo del componente de registro de renters. <br><strong>TB2</strong><br> Colabore en el desarrollo de user-account, implementando la visualización y edición del perfil del usuario tanto en frontend como en backend </td>
   </tr>
   <tr>
     <td rowspan="7"><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
