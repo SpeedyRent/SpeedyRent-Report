@@ -783,6 +783,68 @@ A continuación, se mostrarán los gráficos de insights durante el sprint:
 
 #### 5.2.4.1 Sprint Planning 4
 
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 4</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-11-15</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">18:30 horas (GMT)-5</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Google Meet</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Valera Garces, Samual Ignacio</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">
+    Valera Garces, Samual Ignacio<br>
+	  Becerra Llempen, Fabiola Dayane<br>
+	  Fernandez Alva, Maria Fernanda<br>
+	  Belleza Tello, Paolo Eduardo<br>
+	  Galván Cerrón, George Aldo<br>
+	  Vilca Valverde, Fiorella Angela</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 3 Review Summary</td>
+    <td colspan="8">El equipo se reorganizó para implementar mejoras relacionadas con la TB2. El mayor desafío identificado fue integrar los módulos del backend en una arquitectura unificada, asegurando funcionalidad y consistencia en el sistema.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 3 Retrospective Summary</td>
+    <td colspan="8">El equipo se reorganizó para abordar las actividades pendientes. Se realizó una reunión para definir responsabilidades individuales, establecer plazos claros y garantizar que las entregas fueran revisadas y verificadas correctamente antes de su finalización.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Goal</td>
+    <td colspan="8">El objetivo es distribuir el trabajo en tres frentes: dos miembros del equipo integrarán los módulos del backend, dos trabajarán en la conexión entre el backend y el frontend, y los otros dos elaborarán el documento con las actualizaciones realizadas.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Velocity</td>
+    <td colspan="8">20 ids points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">
+    ID-001 (5 puntos)<br>
+    ID-002 (5 puntos)<br>
+    ID-003 (5 puntos)<br>
+    ID-004 (5 puntos)</td>
+</tr>
+</table>
+
 #### 5.2.4.2 Sprint Backlog 4
 
 #### 5.2.4.3 Development Evidence for Sprint Review
