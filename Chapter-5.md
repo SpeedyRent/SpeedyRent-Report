@@ -758,7 +758,23 @@ Evidencia del trabajo en el GitHub
 En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el Backend estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
 
 #### 5.2.3.8 Team Collaboration Insights during Sprint
+En esta entrega, el trabajo se estructuró en dos partes principales: el frontend y el backend. En el backend, las secciones desarrolladas por cada integrante se organizaron en una rama distinta. A continuación, se presentan las actividades realizadas por cada miembro del equipo.
 
+| Integrante | Actividad |
+|------------|-----------|
+|Belleza Tello, Paolo Eduardo| Implementacion del contrato, pagos |
+|Fernandez Alva, Maria Fernanda| Implementacion de la nueva estructura del db.json, y la implementacion del i18n|
+|Valera Garces, Samuel Ignacio|Implementacion del login-register|
+|Vilca Valverde, Fiorella Angela|Implementacion del post community|
+|Galván Cerrón, George Aldo|Implementacion del user account|
+
+A continuación, se mostrarán los gráficos de insights durante el sprint: 
+
+* Anexo: Flujo de trabajo entre las ramas del Frontend 
+![alt text](Assets/Chapter-5/Sprint%204/Network%20Graph-Frontend-sprint3.png)
+
+* Anexo: Flujo de trabajo entre las ramas del Backend
+![alt text](Assets/Chapter-5/Sprint%204/Network%20Graph%20-Backend-sprint%203.png)
 
 ## 5.3 Validation Interviews
 
