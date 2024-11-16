@@ -778,6 +778,26 @@ A continuación, se mostrarán los gráficos de insights durante el sprint:
 
 ![alt text](Assets/Chapter-5/Sprint%204/Network%20Graph%20-Backend-sprint%203.png)
 
+
+### 5.2.4 Sprint 4
+
+#### 5.2.4.1 Sprint Planning 4
+
+#### 5.2.4.2 Sprint Backlog 4
+
+#### 5.2.4.3 Development Evidence for Sprint Review
+
+#### 5.2.4.4 Testing Suite Evidence for Sprint Review
+
+#### 5.2.4.5 Execution Evidence for Sprint Review
+
+#### 5.2.4.6 Services Documentation Evidence for Sprint Review
+
+#### 5.2.4.7 Software Deployment Evidence for Sprint Review
+
+#### 5.2.4.8 Team Collaboration Insights during Sprint
+
+
 ## 5.3 Validation Interviews
 
 
