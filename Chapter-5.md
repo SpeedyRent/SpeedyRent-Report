@@ -773,7 +773,9 @@ A continuación, se mostrarán los gráficos de insights durante el sprint:
 * Anexo: Flujo de trabajo entre las ramas del Frontend 
 ![alt text](Assets/Chapter-5/Sprint%204/Network%20Graph-Frontend-sprint3.png)
 
+
 * Anexo: Flujo de trabajo entre las ramas del Backend
+
 ![alt text](Assets/Chapter-5/Sprint%204/Network%20Graph%20-Backend-sprint%203.png)
 
 ## 5.3 Validation Interviews
