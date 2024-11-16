@@ -847,6 +847,67 @@ A continuación, se mostrarán los gráficos de insights durante el sprint:
 
 #### 5.2.4.2 Sprint Backlog 4
 
+<table border="1">
+  <tr>
+    <th>Sprint</th>
+    <th colspan="7">Sprint 4</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimations (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do/In-Process/To-Review/Done)</th>
+  </tr>
+  <tr>
+    <td>ID-001</td>
+    <td>Unión del Backend</td>
+    <td>ID-001</td>
+    <td>Union of the Backend parts</td>
+    <td>Cada implementación del backend fue unida para culminar este apartado del proyecto</td>
+    <td>7 Hours</td>
+    <td>Galvan, George</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>ID-002</td>
+    <td>Integrar el Backend y Frontend</td>
+    <td>ID-002</td>
+    <td>Union between the Frontend and the Backend</td>
+    <td>Integrar el frontend y el backend de tal forma que funcione.</td>
+    <td>5 Hours</td>
+    <td>Valera, Samual</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>ID-003</td>
+    <td>Actualizar documentos e informe</td>
+    <td>ID-003</td>
+    <td>Correct, update and review the report</td>
+    <td>En esta parte los diferentes integrantes tuvieron responsabilidades desde la actualización del informe, revisar los documentos y gestionar el GitHub.</td>
+    <td>3 Hours</td>
+    <td>Belleza, Paolo<br>Fernandez, Maria<br>Vilca, Fiorella</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>ID-004</td>
+    <td>Generar los informes del Team Leader y las diapositivas</td>
+    <td>ID-004</td>
+    <td>Update the reports that correspond to the participation of the members and make the slides</td>
+    <td>Actualizar los diversos informes que corresponden a la participación de cada uno de los integrantes asi como la realización de las diapositivas para la exposición </td>
+    <td>3 Hours</td>
+    <td>Becerra, Fabiola</td>
+    <td>Done</td>
+  </tr>
+</table>
+
 #### 5.2.4.3 Development Evidence for Sprint Review
 
 #### 5.2.4.4 Testing Suite Evidence for Sprint Review
