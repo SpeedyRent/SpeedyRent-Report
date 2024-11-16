@@ -920,6 +920,52 @@ A continuación, se mostrarán los gráficos de insights durante el sprint:
 
 #### 5.2.4.8 Team Collaboration Insights during Sprint
 
+En esta entrega, el trabajo se estructuro en dos partes: el frontend y el backend. A continuacion, se presentaran las actividades realizadas por cada miembro del equipo.
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="5">Integrantes</th>
+      <th colspan="8">Responsabilidades</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="5">Valera Garces, Samuel Ignacio</td>
+      <td colspan="8">Integrar todas las implementaciones del backend en una única estructura funcional.</td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        Belleza Tello, Paolo Eduardo<br>
+        Fernandez Alva, Maria Fernanda<br>
+        Vilca Valverde, Fiorella Angela
+      </td>
+      <td colspan="8">
+        Eliminar comentarios innecesarios del frontend y actualizar el informe en GitHub.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="5">Becerra Llempen, Fabiola Dayane</td>
+      <td colspan="8">
+        Elaborar la presentación (PPT) y los documentos para la entrega final, incluyendo el informe de participación.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+A continuacion, se mostrarán los graficos del insights durante el sprint:
+
+* Flujo de trabajo en el Frontend
+
+![alt text](Assets/Chapter-5/Sprint%204)
+
+
+* Flujo de trabajo en el Backend
+
+![alt text](Assets/Chapter-5/Sprint%204)
+
 
 ## 5.3 Validation Interviews
 
