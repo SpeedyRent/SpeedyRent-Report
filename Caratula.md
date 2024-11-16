@@ -6,7 +6,7 @@
     <strong>Ingeniería de Software </strong><br>
     <strong>Aplicaciones Web</strong><br>
     <strong>Profesor: Naldo Reupo Musayon Gastulo</strong><br>
-    <br>INFORME DE TRABAJO FINAL - TP1
+    <br>INFORME DE TRABAJO FINAL - TF
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@
 <br>
 
 <p align="center">
-  <b>Fecha: Agosto del 2024</b>
+  <b>Fecha: Noviembre del 2024</b>
 
 ---
 
@@ -60,6 +60,8 @@
 | TB1       | 14-08-2024| Equipo en conjunto  |●	Capítulo I: Introducción <br>●	Capítulo II: Requirements Elicitation & Analysis,<br>●	Capítulo III: Requirements Specification<br>●	Capítulo IV: Product Design<br>●	Capítulo V: Product Implementation, Validation & Deployment<br>●Avance de Conclusiones, Bibliografía y Anexos|
 | TP1      | [23-09-2024]| Equipo en cojunto  | ●	Capítulo I: Introducción <br>●	Capítulo II: Requirements Elicitation & Analysis,<br>●	Capítulo III: Requirements Specification<br>●	Capítulo IV: Product Design<br> Capítulo V: Product Implementation, Validation & Deployment<br>●Avance de Conclusiones, Bibliografía y Anexos |
 | TB2      | [02-11-2024]| Equipo en cojunto | ●	Capítulo V: Sprint 3, Diseño de entrevistas, Registro de entrevistas, Evaluación según heurísticas y Video About-the-product. |
+| TF      | [15-11-2024]| Equipo en cojunto | ●	Capítulo V: Sprint 4, Sprint Planning 4, Sprint Backlog 4, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint |
+
 
 
 ---
