@@ -873,7 +873,7 @@ A continuación, se mostrarán los gráficos de insights durante el sprint:
     <td>Union of the Backend parts</td>
     <td>Cada implementación del backend fue unida para culminar este apartado del proyecto</td>
     <td>7 Hours</td>
-    <td>Galvan, George</td>
+    <td>Valera, Samual</td>
     <td>Done</td>
   </tr>
   <tr>
