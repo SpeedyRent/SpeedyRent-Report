@@ -109,11 +109,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <th>Acciones realizadas</th>
     <th>Conclusiones</th>
   </tr>
-  <tr>
-    <td rowspan="7"><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
-    <td><strong>Becerra Llempen, Fabiola Dayane</strong><br><strong>TB1</strong><br>Realicé las entrevistas del equipo para obtener y analizar la información del segmento “arrendatario” con el equipo de trabajo y avancé el capítulo V.</td>
-    <td rowspan="7">El equipo demostró su capacidad para coordinarse eficazmente, aprender y aplicar nuevas tecnologías en el desarrollo de la Landing Page y Frontend Web Apps. Las entrevistas con usuarios, junto con la creación de user stories y el análisis de la problemática, fueron clave para abordar el proyecto de manera estructurada. A través de una comunicación constante y colaboración en cada sprint, lograron cumplir con los requisitos funcionales del product backlog, asegurando un despliegue exitoso del proyecto.</td>
-  </tr>
+
   <tr>
    <td><strong>Becerra Llempen, Fabiola Dayane</strong><br><strong>TB1</strong><br>Nos coordinamos utilizando Google Meet para revisar el progreso de cada uno.<br><strong>TP</strong><br>Elaboré el capitulo 5 donde se establece la comunicación tanto con el tenant como con el owner, y la aceptación de dicha notificación por parte del tenant.<br><strong>TB2</strong><br>Elaboré la página de filters, además avance la parte del backend de filters.<br><strong>TF</strong><br>Me organize con mis compañeros que les toco el informe y el frontend para ver como nos repartimos nuestras responsabilidades. Avance mi parte del backend para que logre correr de una manera eficaz. Tambien, realice algunas correcciones que faltaban.</td>
 </tr>
@@ -139,6 +135,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td rowspan="7">El equipo trabajó de manera colaborativa para desarrollar una plataforma web, cumpliendo con los requisitos establecidos y asegurando que cada entregable y artefacto respetara la estructura solicitada. La comunicación, tanto oral como escrita, fue clara y objetiva, asegurando una correcta ortografía y gramática en cada interacción. Gracias a la planificación cuidadosa y la colaboración inclusiva, lograron cumplir con los objetivos del proyecto.</td>
   </tr>
   <tr>
+         <td><strong>Becerra Llempen, Fabiola Dayane</strong><br><strong>TB1</strong><br>En esta primera entrega pude actualizarme con algunos conocimientos que mi grupo me brindó. Gracias a ello logramos realizar el trabajo de manera eficiente.<br><strong>TP</strong><br>Colabore en equipo el capitulo 4 junto a una compañera y se hizo reuniones con el google meet.<br><strong>TB2</strong><br>Gracias a los user stories desde 20-25 pude elaborar la implementacion en el frontend , y se modifico el db.json para tener un mejor orden en conjunto con el backend<br><strong>TF</strong><br>Se eliminaron comentarios inncesarios en el documento del frontend para que quede todo correctamente y funciones bien la aplicación.</td>
+      
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br><strong>TB1</strong><br>Durante la primera entrega, coordiné con mi equipo para identificar problemáticas clave y aplicar un proceso de UX Design basado en Lean UX. Colaboramos en la creación de user stories que reflejaran los outcomes y assumptions del proyecto.<br><strong>TP</strong><br>Colabore en equipo el capitulo 4 junto a una compañera y se hizo reuniones con el google meet.<br><strong>TB2</strong><br>Se elaboraron el home , perfile, como el cambio de idioma por las observaciones que nos dio el profesor en el ultima revison del trbajo parcial.<br><strong>TF</strong><br>Se arregló el documento del frontend, con las carpetas estructuras correctamente</td>
   </tr>
   <tr>
