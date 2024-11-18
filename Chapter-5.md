@@ -929,17 +929,17 @@ Pasos para hacer el despliegue de Backend:
  * Railway proporcionará una URL para conectar a la base de datos MySQL.
  ![create table](https://i.postimg.cc/7hF3q7NW/image.png)
 4. **Conectar a MySQL:**
- ![Connect to MySQL](https://i.postimg.cc/Bv3jmBqm/image.png)
+ ![Connect to MySQL](https://i.postimg.cc/htTxTJ2g/image.png)
 5. **Modificar la conexión en el código**
  * Actualiza la configuración de la conexión en tu código, en el campo DefaultConnection, utilizando la URL proporcionada por Railway.
- ![URL](https://i.postimg.cc/8cnS6NC2/image.png)
+ ![URL](https://i.postimg.cc/76nr2N27/image.png)
 6. **Publicar el proyecto en Azure**
  * Selecciona la opción Publish y luego elige Azure como el destino del despliegue.
- ![Publish](https://i.postimg.cc/j2vz6k00/image.png)
- ![Azure ](https://i.postimg.cc/7ZvqqPJc/image.png)
+ ![Publish](https://i.postimg.cc/Y2FbbSnn/image.png)
+ ![Azure ](https://i.postimg.cc/NfkhCDJz/image.png)
 7. **Configurar la publicación**
  * En la sección Edit Configuration, ingresa un nombre para la configuración.
- ![Edit  ](https://i.postimg.cc/XvHpnGSW/image.png)
+ ![Edit  ](https://i.postimg.cc/GhHYqgmc/image.png)
 8.  **Verificar el despliegue**
  * Una vez finalizado, tu backend estará desplegado y accesible. 
  ![Despliege  ](https://i.postimg.cc/9FBV3D7Q/image.png)
