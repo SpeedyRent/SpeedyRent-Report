@@ -26,9 +26,10 @@ Se ha creado una organización en Github con los miembros del grupo y un reposit
 |Organización|https://github.com/SpeedyRent|
 |Repositorio Landing Page| https://github.com/SpeedyRent/SpeedyRent-LandingPage |
 |Despliegue del Landing Page | https://speedyrent.github.io/SpeedyRent-LandingPage/ |
-|Frontend | https://github.com/SpeedyRent/SpeedyRent-Frontend |
-|Despliegue del Frontend | https://speedy-rent-19f82.web.app/ |
-|Backend| https://github.com/SpeedyRent/SpeedyRent-Backend |
+|Repositorio Frontend | https://github.com/SpeedyRent/SpeedyRent-Frontend |
+|Despliegue del Frontend - db.json | https://speedy-rent-19f82.web.app/ |
+|Repositorio Backend| https://github.com/SpeedyRent/SpeedyRent-Backend |
+|Despliegue del Backend| https://speedy-rent-backend-emftdqfmdraqdahf.canadacentral-01.azurewebsites.net/swagger |
 
 **GitFlow Implementation**<br>GitFlow es un modelo estructurado para gestionar el desarrollo y las ramas en Git. Las ramas principales en este flujo son develop y main. La rama develop actúa como la principal rama de trabajo donde se integran nuevas características, mientras que la rama main contiene la versión estable y lista para producción, que se despliega en GitHub Pages. Además, se crean ramas adicionales para cada tarea o funcionalidad específica que se esté desarrollando, garantizando un flujo organizado y controlado.
 <br><p align="center"><img src="Assets/Chapter-5/5.1.2/gitFlow.png" alt="GitFlow" /></p>
