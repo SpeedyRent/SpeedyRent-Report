@@ -884,7 +884,7 @@ A continuación, se mostrarán los gráficos de insights durante el sprint:
     <td>Integrar el frontend y el backend de tal forma que funcione.</td>
     <td>5 Hours</td>
     <td>Valera, Samual</td>
-    <td>Done</td>
+    <td>In Process</td>
   </tr>
   <tr>
     <td>ID-003</td>
