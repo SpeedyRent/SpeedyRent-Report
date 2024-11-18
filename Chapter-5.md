@@ -917,6 +917,33 @@ A continuación, se mostrarán los gráficos de insights durante el sprint:
 | [SpeedyRent-Backend](https://github.com/SpeedyRent/SpeedyRent-Backend) | develop  | a92b9913e1cfa0096a762cafd9f180330b9d6b1b | feat/user-account-back      | Se creó la carpeta que tendrá el contenido estable | 10/02/2024          |
 | [SpeedyRent-Backend](https://github.com/SpeedyRent/SpeedyRent-Backend) | develop  | c97fab98cedd05983491f6dcd9ef98607f7023d5 | feat/homepage-community-back| Se creó la carpeta que tendrá el contenido estable | 10/02/2024          |
 
+Pasos para hacer el despliegue de Backend:
+
+1. **Creamos un cuenta en railyway**
+ * Accede al siguiente enlace para crear una cuenta en Railway:
+ https://railway.app/dashboard 
+2. **Crear un nuevo proyecto y seleccionar MySQL**
+  * Haz clic en "New Project" y selecciona la opción Deploy MySQL.
+  ![New project ](https://i.postimg.cc/x1ztWj9C/image.png)
+3. **Crear la tabla en MySQL**
+ * Railway proporcionará una URL para conectar a la base de datos MySQL.
+![create table](https://i.postimg.cc/7hF3q7NW/image.png)
+4. **Conectar a MySQL:**
+![Connect to MySQL](https://i.postimg.cc/Bv3jmBqm/image.png)
+5. **Modificar la conexión en el código**
+ * Actualiza la configuración de la conexión en tu código, en el campo DefaultConnection, utilizando la URL proporcionada por Railway.
+![URL](https://i.postimg.cc/8cnS6NC2/image.png)
+6. **Publicar el proyecto en Azure**
+ * Selecciona la opción Publish y luego elige Azure como el destino del despliegue.
+![Publish](https://i.postimg.cc/j2vz6k00/image.png)
+![Azure ](https://i.postimg.cc/7ZvqqPJc/image.png)
+7. **Configurar la publicación**
+ * En la sección Edit Configuration, ingresa un nombre para la configuración.
+ ![Edit  ](https://i.postimg.cc/XvHpnGSW/image.png)
+8.  **Verificar el despliegue**
+ * Una vez finalizado, tu backend estará desplegado y accesible.
+![Despliege  ](https://i.postimg.cc/9FBV3D7Q/image.png)
+
 #### 5.2.4.4 Testing Suite Evidence for Sprint Review
 
 #### 5.2.4.5 Execution Evidence for Sprint Review
