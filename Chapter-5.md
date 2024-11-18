@@ -993,12 +993,12 @@ A continuacion, se mostrarán los graficos del insights durante el sprint:
 
 * Flujo de trabajo en el Frontend
 
-![alt text](Assets/Chapter-5/Sprint 4/SpeedyRent_SpeedyRent-Frontend.png)
+![alt text](Assets/Chapter-5/Sprint%204/SpeedyRent_SpeedyRent-Frontend.png)
 
 
 * Flujo de trabajo en el Backend
 
-![alt text](Assets/Chapter-5/Sprint 4/SpeedyRent_SpeedyRent-Backend.png)
+![alt text](Assets/Chapter-5/Sprint%204/SpeedyRent_SpeedyRent-Backend.png)
 
 
 ## 5.3 Validation Interviews
