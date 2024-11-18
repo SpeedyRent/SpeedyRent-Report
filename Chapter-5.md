@@ -950,6 +950,19 @@ Pasos para hacer el despliegue de Backend:
 
 #### 5.2.4.6 Services Documentation Evidence for Sprint Review
 
+* Evidencia del trabajo en equipo en el GitHub para el Frontend
+
+![alt text](Assets/Chapter-5/Sprint%204/Pulse-Frontend.png)
+
+![alt text](Assets/Chapter-5/Sprint%204/commits-Frontend.png)
+
+* Evidencia del trabajo en equipo en el GitHub para el Backend
+
+![alt text](Assets/Chapter-5/Sprint%204/Pulse-Backend.png)
+
+![alt text](Assets/Chapter-5/Sprint%204/Commits-Backend.png)
+
+
 #### 5.2.4.7 Software Deployment Evidence for Sprint Review
 
 #### 5.2.4.8 Team Collaboration Insights during Sprint
